@@ -1,0 +1,45 @@
+EMPID|Andr12345|Andres Plaza Gran Estacion|20241120|20241120|20241222|122256|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|1|0|0|0|0.00|0.00|-7638.00|2|0.00|0|-556.00|0.00|0.00|0|0.00|0|0.00|0|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|63|142|0|0|9201568.00|920130.00|-68213.00|4|0.00|0|-3089.00|2.00|472100.00|14|0.00|0|109696.00|4|10857812.00|63|10857812.00|63|0.00|0|0.00|0|0.00|920130.00|0.00|0|9201568.00|0.00|0.00|9201568.00
+EMP|Domicilios|20|Domicilios|20|Armado |Becerra Reina|91000002|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|37|59|0|0|3600562.00|360041.00|-185451.00|11|0.00|0|-10900.00|-3.00|197400.00|5|0.00|0|1720610.00|4|4248638.00|37|4248638.00|37|0.00|0|0.00|0|0.00|360041.00|0.00|0|3600562.00|0.00|0.00|3600562.00
+EMP|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|15|0|0|0|256113.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|276600.00|15|276600.00|15|0.00|0|0.00|0|0.00|0.00|0.00|0|256113.00|0.00|0.00|256113.00
+EMP|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|11|0|0|0|524054.00|0.00|0.00|0|0.00|0|0.00|0.00|139800.00|4|0.00|0|0.00|0|565980.00|11|565980.00|11|0.00|0|0.00|0|0.00|0.00|0.00|0|526758.00|-2704.00|-2704.00|524054.00
+EMP|Restaurante|1|Restaurante|1|ANDRES|RAMOS|91000005|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|5828312.00|2|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|1| |0| |0|PRINCIPAL|2|0|-6944.00|0.00|0.00|-694.00|0|0|0.00|0|-7638.00|2|0.00|0|0.00|0|0.00|0|0|0|-694.00|0|-694.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|-556.00|-556.00|0.00|-8194.00|0|-8194.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|1| |0| |0|CAPS|1|0|6944.00|0.00|0.00|694.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|694.00|0|694.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|556.00|0.00|8194.00|8194.00|1|8194.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|1| |0| |0|PRINCIPAL|2|0|9116846.00|0.00|0.00|911658.00|63|142|0.00|0|-68213.00|4|0.00|0|472100.00|14|0.00|0|0|0|775254.00|0|775254.00|51|0.00|0|8597910.00|0.00|0.00|0.00|0.00|0.00|729334.00|-3089.00|10829140.00|10757837.00|63|9148233.00|51|0.00|0|0.00|0|-1.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|5694.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|1| |0| |0|FRUTERIA|3|0|84722.00|0.00|0.00|8472.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|144876.00|0|144876.00|12|0.00|0|1623676.00|0.00|0.00|0.00|0.00|0.00|6778.00|0.00|99972.00|99975.00|0|1709579.00|12|0.00|0|0.00|0|3.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|1| |0| |0|PRINCIPAL|2|0|656389.00|0.00|0.00|65636.00|0|-1|0.00|0|-152045.00|6|0.00|0|112000.00|2|0.00|0|0|0|310413.00|0|310413.00|33|0.00|0|3381386.00|0.00|0.00|0.00|0.00|0.00|52511.00|-8470.00|935051.00|774533.00|0|3663010.00|32|0.00|0|0.00|0|-3.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|1| |0| |0|PRINCIPAL|2|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|83795.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|1| |0| |0|FRUTERIA|3|0|256113.00|0.00|0.00|0.00|15|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|172318.00|0.00|0.00|0.00|0.00|0.00|20487.00|0.00|276600.00|276600.00|15|276600.00|15|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|1| |0| |0|FRUTERIA|3|0|524054.00|-2704.00|0.00|0.00|11|0|0.00|0|0.00|0|0.00|0|139800.00|4|0.00|0|0|0|0.00|0|0.00|0|0.00|0|10815.00|0.00|0.00|0.00|0.00|0.00|41926.00|0.00|568684.00|565980.00|11|565980.00|11|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|1| |0| |0|FRUTERIA|3|0|2944173.00|0.00|0.00|294405.00|37|60|0.00|0|-33406.00|5|0.00|0|85400.00|3|0.00|0|0|0|49628.00|0|49628.00|4|0.00|0|639120.00|0.00|0.00|0.00|0.00|0.00|235527.00|-2430.00|3509941.00|3474105.00|37|585628.00|5|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-2704.00|1|-2704.00
+EMPTM|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|Master Card|202|Master Card|202|Payment|5747073.00|46
+EMPTM|Domicilios|20|Domicilios|20|Armado |Becerra Reina|91000002|Master Card|202|Master Card|202|Payment|90500.00|2
+EMPTM|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|Efectivo|101|Efectivo|101|Payment|1300566.00|14
+EMPTM|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|Visa|204|Visa|204|Payment|5678821.00|32
+EMPTM|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|CxC Rappi|210|CxC Rappi|210|Payment|456400.00|8
+EMPTM|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|Master Card|202|Master Card|202|Payment|965848.00|8
+EMPTM|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|Master Card|202|Master Card|202|Payment|43500.00|2
+EMPTM|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|Efectivo|101|Efectivo|101|Payment|421500.00|7
+EMPTM|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|Efectivo|101|Efectivo|101|Payment|114800.00|10
+EMPTM|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|Efectivo|101|Efectivo|101|Payment|11680.00|1
+EMPTM|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|Diners|203|Diners|203|Payment|107511.00|1
+EMPTM|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|Visa|204|Visa|204|Payment|885131.00|7
+EMPTM|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|Visa|204|Visa|204|Payment|27800.00|1
+EMPTM|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|97900.00|2
+EMPOTSLS|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|Domicilios|7|Domicilios|7|10|0|0|0|513239.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|513239.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|Domicilios|7|Domicilios|7|0|0|0|0|7130.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|7130.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|OT1|1|Order Type Master 1|1|11|0|0|0|97132.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|97132.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|OT1|1|Order Type Master 1|1|1|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Omar Stif|Vega Jimenez|91000003|OT1|1|Order Type Master 1|1|1|0|0|0|10815.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|10815.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Armado |Becerra Reina|91000002|OT1|1|Order Type Master 1|1|63|142|0|0|9201568.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|9201568.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Omar Stif|Vega Jimenez|91000003|OT2|2|Order Type Master 2|2|4|0|0|0|151851.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|151851.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Omar Stif|Vega Jimenez|91000003|OT1|1|Order Type Master 1|1|37|59|0|0|3600562.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|3600562.00

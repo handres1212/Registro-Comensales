@@ -1,0 +1,48 @@
+EMPID|Andr123456|Andres Plaza Retiro|20241211|20241211|20250112|125833|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|1|0|0|0|66660.00|6666.00|0.00|0|0.00|0|0.00|0.00|3600.00|1|0.00|0|0.00|0|78666.00|1|78666.00|1|0.00|0|0.00|0|0.00|6666.00|0.00|0|66660.00|0.00|0.00|66660.00
+EMP|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|2|0|0|0|380001.00|37999.00|0.00|0|0.00|0|0.00|1.00|271400.00|2|0.00|0|251296.00|1|448400.00|3|448400.00|3|0.00|0|0.00|0|0.00|37999.00|0.00|0|380001.00|0.00|0.00|380001.00
+EMP|Eventos|3|Eventos|3|John|Rozo Moreno|83|1|0|0|0|126438933.00|9716650.00|0.00|0|0.00|0|0.00|0.00|4702160.00|3|0.00|0|145442223.00|1|149489520.00|1|149489520.00|1|0.00|0|0.00|0|0.00|9716650.00|0.00|0|126438933.00|0.00|0.00|126438933.00
+EMP|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1|0|0|0|5787605.00|578743.00|0.00|0|0.00|0|0.00|0.00|55200.00|1|0.00|0|0.00|0|6829343.00|1|6829343.00|1|0.00|0|0.00|0|0.00|578743.00|0.00|0|5787605.00|0.00|0.00|5787605.00
+EMP|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|3|0|0|0|638889.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|5021800.00|9|690000.00|3|690000.00|3|0.00|0|0.00|0|0.00|0.00|0.00|0|638889.00|0.00|0.00|638889.00
+EMP|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|12|0|0|0|1274260.00|127423.00|0.00|0|0.00|0|0.00|2.00|13000.00|1|0.00|0|303740.00|2|1503625.00|12|1503625.00|12|0.00|0|0.00|0|0.00|127423.00|0.00|0|1274260.00|0.00|0.00|1274260.00
+EMP|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|3|0|0|0|638889.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|690000.00|3|690000.00|3|0.00|0|0.00|0|0.00|0.00|0.00|0|638889.00|0.00|0.00|638889.00
+EMPSHFT|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|1| |0| |0|CAFETERIA|2|0|66660.00|0.00|0.00|6666.00|1|0|0.00|0|0.00|0|0.00|0|3600.00|1|0.00|0|0|0|6666.00|0|6666.00|1|0.00|0|73326.00|0.00|0.00|0.00|0.00|0.00|5340.00|0.00|78666.00|78666.00|1|78666.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|1| |0| |0|CAPS|1|0|380001.00|0.00|0.00|37999.00|2|0|0.00|0|0.00|0|0.00|0|271400.00|2|0.00|0|0|0|37999.00|0|37999.00|2|0.00|0|418001.00|0.00|0.00|0.00|0.00|0.00|30399.00|0.00|448399.00|448400.00|3|448400.00|3|0.00|0|0.00|0|1.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|John|Rozo Moreno|83|1| |0| |0|DOMICILIOS|3|0|126438933.00|0.00|0.00|9716650.00|1|0|0.00|0|0.00|0|0.00|0|4702160.00|3|0.00|0|0|0|9716650.00|0|9716650.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|13333937.00|0.00|149489520.00|149489520.00|1|149489520.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CENTRAL PATACONES|5|0|638889.00|0.00|0.00|0.00|3|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|638889.00|0.00|0.00|0.00|0.00|0.00|51111.00|0.00|690000.00|690000.00|3|690000.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CAFETERIA|2|0|5787605.00|0.00|0.00|578743.00|1|0|0.00|0|0.00|0|0.00|0|55200.00|1|0.00|0|0|0|578743.00|0|578743.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|462995.00|0.00|6829343.00|6829343.00|1|6829343.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|1| |0| |0|CENTRAL PATACONES|5|0|1274260.00|0.00|0.00|127423.00|12|0|0.00|0|0.00|0|0.00|0|13000.00|1|0.00|0|0|0|127423.00|0|127423.00|12|0.00|0|1427425.00|0.00|0.00|0.00|0.00|0.00|101940.00|0.00|1503623.00|1503625.00|12|1503625.00|12|0.00|0|0.00|0|2.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|1| |0| |0|CENTRAL PATACONES|5|0|638889.00|0.00|0.00|0.00|3|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|638889.00|0.00|0.00|0.00|0.00|0.00|51111.00|0.00|690000.00|690000.00|3|690000.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|Visa |204|Visa |204|Payment|78666.00|1
+EMPTM|Eventos|3|Eventos|3|John|Rozo Moreno|83|Anticipo|208|Anticipo|208|Payment|89840000.00|1
+EMPTM|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Efectivo|101|Efectivo|101|Payment|44660.00|1
+EMPTM|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Master Card|202|Master Card|202|Payment|403740.00|2
+EMPTM|Eventos|3|Eventos|3|John|Rozo Moreno|83|Cuenta X Cobrar|206|Cuenta X Cobrar|206|Payment|59649520.00|1
+EMPTM|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Cuenta X Cobrar|206|Cuenta X Cobrar|206|Payment|6829343.00|1
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Efectivo|101|Efectivo|101|Payment|53320.00|2
+EMPTM|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|Efectivo|101|Efectivo|101|Payment|690000.00|5
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Master Card|202|Master Card|202|Payment|994695.00|7
+EMPTM|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|Master Card|202|Master Card|202|Payment|690000.00|1
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|American Express|201|American Express|201|Payment|455610.00|3
+EMPOTSLS|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|OT1|1|Order Type Master 1|1|1|0|0|0|212963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|212963.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|128704.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|128704.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|22592.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|22592.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|128704.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|128704.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|128704.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|128704.00
+EMPOTSLS|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|OT1|1|Order Type Master 1|1|1|0|0|0|122593.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|122593.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|OT1|1|Order Type Master 1|1|1|0|0|0|5787605.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|5787605.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|303704.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|303704.00
+EMPOTSLS|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|OT1|1|Order Type Master 1|1|1|0|0|0|212963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|212963.00
+EMPOTSLS|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|212963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|212963.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|OT1|1|Order Type Master 1|1|1|0|0|0|66660.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|66660.00
+EMPOTSLS|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|OT1|1|Order Type Master 1|1|1|0|0|0|257408.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|257408.00
+EMPOTSLS|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|OT1|1|Order Type Master 1|1|1|0|0|0|212963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|212963.00
+EMPOTSLS|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|212963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|212963.00
+EMPOTSLS|Eventos|3|Eventos|3|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|212963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|212963.00
+EMPOTSLS|Eventos|3|Eventos|3|John|Rozo Moreno|83|OT1|1|Order Type Master 1|1|1|0|0|0|126438933.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|126438933.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|6|0|0|0|433148.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|433148.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|1|0|0|0|128704.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|128704.00

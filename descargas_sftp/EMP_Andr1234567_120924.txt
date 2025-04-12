@@ -1,0 +1,87 @@
+EMPID|Andr1234567|Andres Expres PepeSierra|20241209|20241209|20250110|122244|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|JEYSON STEVEN|RODRIGUEZ GAITAN|5002|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|5|0|0|0|0.00|0.00|-333683.00|26|0.00|0|-24282.00|0.00|30000.00|3|0.00|0|195725.00|5|0.00|5|0.00|4|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Plataformas|21|Plataformas|21|Andres Felipe|Sanchez|79|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|8800.00|3|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|16|0|0|0|1606295.00|156309.00|-141878.00|14|0.00|0|-14117.00|0.00|2669599.00|12|0.00|0|94509.00|4|1891109.00|16|1891109.00|16|0.00|0|0.00|0|0.00|156309.00|0.00|0|1606295.00|0.00|0.00|1606295.00
+EMP|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|5|0|0|0|105101.00|0.00|0.00|0|0.00|0|0.00|0.00|18800.00|1|0.00|0|964700.00|4|113700.00|5|113700.00|5|0.00|0|0.00|0|0.00|0.00|0.00|0|107501.00|-2400.00|-2400.00|105101.00
+EMP|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|12|0|0|0|668289.00|0.00|0.00|0|0.00|0|0.00|0.00|104700.00|16|0.00|0|404300.00|11|721750.00|12|721750.00|12|0.00|0|0.00|0|0.00|0.00|0.00|0|668289.00|0.00|0.00|668289.00
+EMPSHFT|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|1| |0| |0|Meseros Pepe Sierra|2|0|0.00|0.00|0.00|0.00|1|0|0.00|0|-35546.00|3|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-2585.00|38131.00|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|4|0|0.00|0|-298137.00|23|0.00|0|30000.00|3|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-21697.00|319834.00|0.00|4|0.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|1606295.00|0.00|0.00|156309.00|15|0|0.00|0|-50518.00|6|0.00|0|2669599.00|12|0.00|0|0|0|156309.00|0|156309.00|14|0.00|0|1766548.00|0.00|0.00|0.00|0.00|0.00|128505.00|-7472.00|1949099.00|1891109.00|15|1891109.00|15|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|1| |0| |0|Meseros Pepe Sierra|2|0|0.00|0.00|0.00|0.00|1|0|0.00|0|-91360.00|8|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-6645.00|98005.00|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|668289.00|0.00|0.00|0.00|12|0|0.00|0|0.00|0|0.00|0|104700.00|16|0.00|0|0|0|0.00|0|0.00|0|0.00|0|463.00|0.00|0.00|0.00|0.00|0.00|53461.00|0.00|721750.00|721750.00|12|721750.00|12|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|105101.00|-2400.00|0.00|0.00|5|0|0.00|0|0.00|0|0.00|0|18800.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|105101.00|0.00|0.00|0.00|0.00|0.00|8599.00|0.00|116100.00|113700.00|5|113700.00|5|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|JEYSON STEVEN|RODRIGUEZ GAITAN|5002|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-2400.00|1|-2400.00
+EMPTM|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|CxC Rappi|210|CxC Rappi|210|Payment|721250.00|12
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Efectivo |101|Efectivo |101|Payment|395190.00|3
+EMPTM|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Efectivo |101|Efectivo |101|Payment|500.00|1
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Master Card|202|Master Card|202|Payment|1043150.00|9
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Master Card|202|Master Card|202|Payment|49300.00|4
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Visa |204|Visa |204|Payment|192296.00|2
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Visa |204|Visa |204|Payment|64400.00|1
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Sodexo|303|Sodexo|303|Payment|260473.00|1
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|1|0|0|0|926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|926.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|65831.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|65831.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|4259.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|4259.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|-36758.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-36758.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Para Llevar|2|Para Llevar|2|1|0|0|0|13890.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|13890.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|99353.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|99353.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|1|0|0|0|926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|926.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|-926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-926.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|8426.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|8426.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|-32315.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-32315.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|16203.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|16203.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|26019.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|26019.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|59630.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|59630.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|137408.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|137408.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|43148.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|43148.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|36666.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|36666.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|63426.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|63426.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|54722.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|54722.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Para Llevar|2|Para Llevar|2|1|0|0|0|9544.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|9544.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|93611.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|93611.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|6389.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|6389.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|95926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|95926.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|18333.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|18333.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|34353.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|34353.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|91944.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|91944.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|67408.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|67408.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|-2685.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-2685.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|60000.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|60000.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|238795.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|238795.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|67871.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|67871.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|-83055.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-83055.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|35741.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|35741.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|12870.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|12870.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|83055.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|83055.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|26851.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|26851.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Para Llevar|2|Para Llevar|2|1|0|0|0|17407.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|17407.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|1|0|0|0|7315.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|7315.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|4630.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|4630.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|36204.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|36204.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|72963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|72963.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|129815.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|129815.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|-926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-926.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|-7315.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-7315.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|184074.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|184074.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|76203.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|76203.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|68797.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|68797.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|33935.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|33935.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|90000.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|90000.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|65093.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|65093.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|44074.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|44074.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|1|0|0|0|32315.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|32315.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|0|0|0|0|-262036.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-262036.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|Para Aqui|1|Para Aqui|1|1|0|0|0|8426.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|8426.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|26019.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|26019.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|42130.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|42130.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|86759.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|86759.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|39444.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|39444.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|48241.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|48241.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|1|0|0|0|26574.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|26574.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|54907.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|54907.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|0|0|0|0|36852.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|36852.00

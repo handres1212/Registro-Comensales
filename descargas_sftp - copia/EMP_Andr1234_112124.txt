@@ -1,0 +1,39 @@
+EMPID|Andr1234|Andres Plaza Santafe|20241121|20241121|20241223|122253|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|41|66|0|0|3830817.00|385353.00|-46445.00|7|0.00|0|-9521.00|4.00|304300.00|14|0.00|0|0.00|0|4524457.00|41|4524457.00|35|0.00|0|0.00|0|0.00|385353.00|0.00|0|3853617.00|-22800.00|-22800.00|3830817.00
+EMP|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|12|0|0|0|83485.00|0.00|0.00|0|0.00|0|0.00|0.00|4600.00|1|0.00|0|2000.00|2|90200.00|12|90200.00|12|0.00|0|0.00|0|0.00|0.00|0.00|0|83985.00|-500.00|-500.00|83485.00
+EMP|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|10|0|0|0|521482.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|2|563200.00|10|563200.00|10|0.00|0|0.00|0|0.00|0.00|0.00|0|521482.00|0.00|0.00|521482.00
+EMP|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|4|7|0|0|424908.00|42489.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|501389.00|4|501389.00|3|0.00|0|0.00|0|0.00|42489.00|0.00|0|424908.00|0.00|0.00|424908.00
+EMP|Domicilios|20|Domicilios|20|Marisol|Suarique|90000004|2|0|0|0|9260.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|10000.00|2|10000.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|9260.00|0.00|0.00|9260.00
+EMPSHFT|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|1| |0| |0|CAFETERIA|2|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|1| |0| |0|CAFETERIA|2|0|83485.00|-500.00|0.00|0.00|12|0|0.00|0|0.00|0|0.00|0|4600.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|83485.00|0.00|0.00|0.00|0.00|0.00|6715.00|0.00|90700.00|90200.00|12|90200.00|12|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|1| |0| |0|CAPS|1|0|29167.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|2333.00|0.00|31500.00|31500.00|1|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|1| |0| |0|CAFETERIA|2|0|492315.00|0.00|0.00|0.00|9|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|39385.00|0.00|531700.00|531700.00|9|563200.00|10|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|1| |0| |0|CAFETERIA|2|0|3830817.00|-22800.00|0.00|385353.00|41|66|0.00|0|-46445.00|7|0.00|0|304300.00|14|0.00|0|0|0|385353.00|0|385353.00|32|0.00|0|4257109.00|0.00|0.00|0.00|0.00|0.00|308283.00|-9521.00|4603219.00|4524457.00|41|4524457.00|35|0.00|0|0.00|0|4.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Marisol|Suarique|90000004|1| |0| |0|CAFETERIA|2|0|9260.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|9260.00|0.00|0.00|0.00|0.00|0.00|740.00|0.00|10000.00|10000.00|2|10000.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|1| |0| |0|CAFETERIA|2|0|424908.00|0.00|0.00|42489.00|4|7|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|42489.00|0|42489.00|3|0.00|0|467397.00|0.00|0.00|0.00|0.00|0.00|33992.00|0.00|501389.00|501389.00|4|501389.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-22800.00|1|-22800.00
+EMPDSC|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-500.00|1|-500.00
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|American Express|201|American Express|201|Payment|35900.00|1
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Visa|204|Visa|204|Payment|762300.00|4
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Efectivo|101|Efectivo|101|Payment|33539.00|2
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Master Card|202|Master Card|202|Payment|590280.00|7
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|TituloValor|302|TituloValor|302|Payment|150000.00|1
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|CxC Rappi|210|CxC Rappi|210|Payment|497500.00|9
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Visa|204|Visa|204|Payment|1219823.00|7
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Efectivo|101|Efectivo|101|Payment|131930.00|5
+EMPTM|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Efectivo|101|Efectivo|101|Payment|35400.00|5
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Master Card|202|Master Card|202|Payment|2102074.00|13
+EMPTM|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Master Card|202|Master Card|202|Payment|54800.00|7
+EMPTM|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|65700.00|1
+EMPTM|Domicilios|20|Domicilios|20|Marisol|Suarique|90000004|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Marisol|Suarique|90000004|Efectivo|101|Efectivo|101|Payment|10000.00|2
+EMPOTSLS|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|Para Aqui|1|Para Aqui|1|4|7|0|0|424908.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|424908.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Para Aqui|1|Para Aqui|1|10|0|0|0|60522.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|60522.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Marisol|Suarique|90000004|Para Aqui|1|Para Aqui|1|2|0|0|0|9260.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|9260.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Para Aqui|1|Para Aqui|1|41|66|0|0|3830817.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|3830817.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|Domicilios|7|Domicilios|7|8|0|0|0|458519.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|458519.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Para Llevar|2|Para Llevar|2|2|0|0|0|22963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|22963.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|Para Aqui|1|Para Aqui|1|2|0|0|0|62963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|62963.00

@@ -1,0 +1,47 @@
+EMPID|IBG|Andres Calera|20241203|20241203|20250104|123258|2.00|2.00|Simphony|19.7.2
+EMP|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|4|7|0|0|524633.00|52461.00|0.00|0|0.00|0|0.00|0.00|11800.00|1|0.00|0|0.00|0|619061.00|4|619061.00|4|0.00|0|0.00|0|0.00|52461.00|0.00|0|524633.00|0.00|0.00|524633.00
+EMP|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|13|20|0|0|1061482.00|95497.00|0.00|0|0.00|0|-8333.00|-2.00|38700.00|4|0.00|0|5664313.00|10|1241895.00|13|1241895.00|13|0.00|0|0.00|0|0.00|95497.00|0.00|0|1061482.00|0.00|0.00|1061482.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|CAPS|1|0|746853.00|0.00|0.00|64034.00|10|16|0.00|0|0.00|0|0.00|0|26300.00|3|0.00|0|0|0|72053.00|0|72053.00|6|0.00|0|1156977.00|0.00|0.00|0.00|0.00|0.00|59747.00|-8333.00|878967.00|870632.00|10|965251.00|10|0.00|0|0.00|0|-2.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|BARRA COCINA|2|0|314629.00|0.00|0.00|31463.00|3|4|0.00|0|0.00|0|0.00|0|12400.00|1|0.00|0|0|0|23444.00|0|23444.00|3|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|25171.00|0.00|371263.00|371263.00|3|276644.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|1| |0| |0|BARRA COCINA|2|0|513707.00|0.00|0.00|51368.00|4|7|0.00|0|0.00|0|0.00|0|11800.00|1|0.00|0|0|0|26277.00|0|26277.00|2|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|41093.00|0.00|606168.00|606168.00|4|310077.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|1| |0| |0|CAPS|1|0|10926.00|0.00|0.00|1093.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|26184.00|0|26184.00|2|0.00|0|577094.00|0.00|0.00|0.00|0.00|0.00|874.00|0.00|12893.00|12893.00|0|308984.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPTM|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|American Express|201|American Express|201|Payment|371371.00|1
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Master Card|202|Master Card|202|Payment|469212.00|6
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Efectivo|101|Efectivo|101|Payment|270310.00|4
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Visa|204|Visa|204|Payment|750063.00|6
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|1|0|0|4630.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|4630.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|31111.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|31111.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|1|0|0|4630.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|4630.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|15370.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|15370.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|1|2|0|0|23056.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|23056.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|10926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|10926.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|16482.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|16482.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|0|0|0|0|17500.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|17500.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|0|0|0|0|10926.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|10926.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|0|0|0|0|76852.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|76852.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|50370.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|50370.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|8241.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|8241.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|45093.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|45093.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|18889.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|18889.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|1852.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|1852.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|1|0|0|73148.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|73148.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|1|2|0|0|123426.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|123426.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|11112.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|11112.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|15648.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|15648.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|1|0|0|46111.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|46111.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|1|0|0|4630.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|4630.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|0|0|0|0|52593.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|52593.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|23426.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|23426.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|12870.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|12870.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|99815.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|99815.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|0|0|0|0|15556.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|15556.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|211018.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|211018.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|0|0|0|0|27593.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|27593.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|1|2|0|0|159908.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|159908.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|18889.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|18889.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|1|1|0|0|38519.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|38519.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Llevar|2|Para Llevar|2|1|1|0|0|83332.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|83332.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|0|0|0|0|93981.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|93981.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Para Aqui|1|Para Aqui|1|1|2|0|0|138612.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|138612.00

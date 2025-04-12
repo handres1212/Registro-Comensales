@@ -1,0 +1,24 @@
+EMPID|Andr1234|Andres Plaza Santafe|20241217|20241217|20250118|122253|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|dispo|dispo|90000005|50|118|0|0|6407993.00|635800.00|-37380.00|5|0.00|0|-7699.00|12.00|109200.00|10|-33982.00|3|0.00|1|7556412.00|51|7556412.00|50|0.00|0|0.00|0|0.00|635800.00|0.00|0|6407993.00|0.00|0.00|6407993.00
+EMP|Almacen|2|Almacen|40|dispo|dispo|90000005|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Domicilios|20|Domicilios|20|dispo|dispo|90000005|13|0|0|0|135399.00|0.00|0.00|0|0.00|0|0.00|0.00|485780.00|3|0.00|0|29100.00|2|146900.00|13|146900.00|13|0.00|0|0.00|0|0.00|0.00|0.00|0|143799.00|-8400.00|-8400.00|135399.00
+EMP|Plataformas|21|Plataformas|21|dispo|dispo|90000005|1|0|0|0|91482.00|0.00|0.00|0|0.00|0|0.00|0.00|3400.00|1|0.00|0|0.00|0|98800.00|1|98800.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|91482.00|0.00|0.00|91482.00
+EMPSHFT|Restaurante|1|Restaurante|1|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|6407993.00|0.00|0.00|635800.00|50|118|0.00|0|-37380.00|5|-33982.00|3|109200.00|10|0.00|0|0|0|635800.00|0|635800.00|47|0.00|0|7053453.00|0.00|0.00|0.00|0.00|0.00|512607.00|-7699.00|7601479.00|7556412.00|51|7556412.00|50|0.00|0|0.00|0|12.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|135399.00|-8400.00|0.00|0.00|13|0|0.00|0|0.00|0|0.00|0|485780.00|3|0.00|0|0|0|0.00|0|0.00|0|0.00|0|135399.00|0.00|0.00|0.00|0.00|0.00|11501.00|0.00|155300.00|146900.00|13|146900.00|13|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|91482.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|3400.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|7318.00|0.00|98800.00|98800.00|1|98800.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-8400.00|4|-8400.00
+EMPTM|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|Master Card|202|Master Card|202|Payment|130565.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|American Express|201|American Express|201|Payment|140726.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Visa|204|Visa|204|Payment|2273270.00|16
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Visa|204|Visa|204|Payment|7400.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Efectivo|101|Efectivo|101|Payment|1414509.00|19
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Efectivo|101|Efectivo|101|Payment|101800.00|8
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Master Card|202|Master Card|202|Payment|3597342.00|30
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Master Card|202|Master Card|202|Payment|37700.00|4
+EMPTM|Plataformas|21|Plataformas|21|dispo|dispo|90000005|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|98800.00|1
+EMPOTSLS|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Para Aqui|1|Para Aqui|1|50|118|0|0|6407993.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|6407993.00
+EMPOTSLS|Plataformas|21|Plataformas|21|dispo|dispo|90000005|Domicilios|7|Domicilios|7|1|0|0|0|91482.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|91482.00
+EMPOTSLS|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Para Llevar|2|Para Llevar|2|2|0|0|0|62871.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|62871.00
+EMPOTSLS|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Para Aqui|1|Para Aqui|1|11|0|0|0|72528.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|72528.00

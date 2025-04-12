@@ -1,0 +1,46 @@
+EMPID|Andr12|Andres Plaza Hacienda|20241216|20241216|20250117|122259|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|2|5|0|0|214631.00|21463.00|0.00|0|0.00|0|0.00|7.00|0.00|0|0.00|0|0.00|0|253270.00|2|253270.00|2|0.00|0|0.00|0|0.00|21463.00|0.00|0|214631.00|0.00|0.00|214631.00
+EMP|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|13|0|0|0|967224.00|0.00|-111112.00|5|0.00|0|-96.00|0.00|311000.00|13|0.00|0|0.00|0|1044600.00|13|1044600.00|13|0.00|0|0.00|0|0.00|0.00|0.00|0|967224.00|0.00|0.00|967224.00
+EMP|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|125|295|0|0|14899495.00|1399117.00|-828373.00|78|0.00|0|-129380.00|2.00|821800.00|47|0.00|0|54301.00|5|17490517.00|125|17490517.00|125|0.00|0|0.00|0|0.00|1399117.00|0.00|0|14899495.00|0.00|0.00|14899495.00
+EMP|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|28|0|0|0|392135.00|19999.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|443500.00|29|443500.00|29|0.00|0|0.00|0|0.00|19999.00|0.00|0|398803.00|-6668.00|-6668.00|392135.00
+EMP|Almacen|2|Almacen|40|Jhoana|Galvis Romero|80000003|2|0|0|0|344538.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|660000.00|5|410000.00|2|410000.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|344538.00|0.00|0.00|344538.00
+EMP|Plataformas|21|Plataformas|21|Jhoana|Galvis Romero|80000003|8|0|0|0|436759.00|0.00|-20185.00|2|0.00|0|-67.00|0.00|51000.00|2|0.00|0|0.00|0|471700.00|8|471700.00|8|0.00|0|0.00|0|0.00|0.00|0.00|0|436759.00|0.00|0.00|436759.00
+EMPSHFT|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|1| |0| |0|CAFETERIA|2|0|84444.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|6756.00|0.00|91200.00|91200.00|1|91200.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|1| |0| |0|CAPS|1|0|87222.00|0.00|0.00|8722.00|2|5|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|6978.00|0.00|102922.00|102922.00|2|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|1| |0| |0|CAFETERIA|2|0|127409.00|0.00|0.00|12741.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|21463.00|0|21463.00|2|0.00|0|236101.00|0.00|0.00|0.00|0.00|0.00|10191.00|0.00|150341.00|150348.00|0|253270.00|2|0.00|0|0.00|0|7.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|1| |0| |0|CAPS|1|0|882780.00|0.00|0.00|0.00|12|0|0.00|0|-111112.00|5|0.00|0|311000.00|13|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|70620.00|-96.00|1064608.00|953400.00|12|953400.00|12|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|1| |0| |0|CAPS|1|0|51667.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|4133.00|0.00|55800.00|55800.00|1|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|1| |0| |0|CAFETERIA|2|0|340468.00|-6668.00|0.00|19999.00|27|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|19999.00|0|19999.00|1|0.00|0|392135.00|0.00|0.00|0.00|0.00|0.00|27233.00|0.00|394368.00|387700.00|28|443500.00|29|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|1| |0| |0|CAFETERIA|2|0|14866810.00|0.00|0.00|1427543.00|124|294|0.00|0|-828373.00|78|0.00|0|813000.00|46|0.00|0|0|0|1311101.00|0|1311101.00|116|0.00|0|16202659.00|0.00|0.00|0.00|0.00|0.00|1189288.00|-97685.00|18409699.00|17483643.00|124|16109601.00|115|0.00|0|0.00|0|2.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Jhoana|Galvis Romero|80000003|1| |0| |0|CAFETERIA|2|0|437592.00|0.00|0.00|0.00|8|0|0.00|0|0.00|0|0.00|0|51000.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|35008.00|0.00|472600.00|472600.00|8|450800.00|7|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Almacen|2|Almacen|40|Jhoana|Galvis Romero|80000003|1| |0| |0|CAFETERIA|2|0|344538.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|344538.00|0.00|0.00|0.00|0.00|0.00|65462.00|0.00|410000.00|410000.00|2|410000.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|1| |0| |0|CAPS|1|0|32685.00|0.00|0.00|-28426.00|1|1|0.00|0|0.00|0|0.00|0|8800.00|1|0.00|0|0|0|88016.00|0|88016.00|9|0.00|0|196167.00|0.00|0.00|0.00|0.00|0.00|2615.00|-31695.00|38569.00|6874.00|1|1380916.00|10|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Jhoana|Galvis Romero|80000003|1| |0| |0|CAPS|1|0|-833.00|0.00|0.00|0.00|0|0|0.00|0|-20185.00|2|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|-67.00|-67.00|19352.00|-900.00|0|20900.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-6668.00|3|-6668.00
+EMPTM|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|CxC Rappi|210|CxC Rappi|210|Payment|354900.00|5
+EMPTM|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|Visa|204|Visa|204|Payment|47637.00|1
+EMPTM|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|Sodexo|303|Sodexo|303|Payment|163900.00|3
+EMPTM|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|CxC Rappi Turbo|211|CxC Rappi Turbo|211|Payment|15800.00|1
+EMPTM|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|694800.00|8
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Jhoana|Galvis Romero|80000003|CxC Rappi|210|CxC Rappi|210|Payment|62900.00|2
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|American Express|201|American Express|201|Payment|682323.00|5
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Diners|203|Diners|203|Payment|128161.00|2
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Master Card|202|Master Card|202|Payment|8264762.00|74
+EMPTM|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|Master Card|202|Master Card|202|Payment|120500.00|11
+EMPTM|Almacen|2|Almacen|40|Jhoana|Galvis Romero|80000003|Master Card|202|Master Card|202|Payment|180000.00|1
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Visa|204|Visa|204|Payment|5588538.00|47
+EMPTM|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|Visa|204|Visa|204|Payment|177800.00|3
+EMPTM|Almacen|2|Almacen|40|Jhoana|Galvis Romero|80000003|Visa|204|Visa|204|Payment|230000.00|1
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Efectivo|101|Efectivo|101|Payment|2796110.00|24
+EMPTM|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|Efectivo|101|Efectivo|101|Payment|145200.00|15
+EMPTM|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Sodexo|303|Sodexo|303|Payment|72356.00|1
+EMPTM|Plataformas|21|Plataformas|21|Jhoana|Galvis Romero|80000003|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|387900.00|5
+EMPOTSLS|Almacen|2|Almacen|40|Jhoana|Galvis Romero|80000003|Para Aqui|1|Para Aqui|1|2|0|0|0|344538.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|344538.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Jhoana|Galvis Romero|80000003|Para Aqui|1|Para Aqui|1|125|295|0|0|14899495.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|14899495.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Jhoana|Galvis Romero|80000003|Domicilios|7|Domicilios|7|8|0|0|0|436759.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|436759.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|Domicilios|7|Domicilios|7|4|0|0|0|31111.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|31111.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Deyanira|Tequia Hernandez|80000002|Para Aqui|1|Para Aqui|1|2|5|0|0|214631.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|214631.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Deyanira|Tequia Hernandez|80000002|Domicilios|7|Domicilios|7|13|0|0|0|967224.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|967224.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Jhoana|Galvis Romero|80000003|Para Llevar|2|Para Llevar|2|24|0|0|0|361024.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|361024.00

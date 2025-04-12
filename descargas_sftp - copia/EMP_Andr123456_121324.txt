@@ -1,0 +1,22 @@
+EMPID|Andr123456|Andres Plaza Retiro|20241213|20241213|20250114|122228|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez|79|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|9615.00|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Eventos|3|Eventos|3|Glismariams|Barrios Jimenez|80|3|0|0|0|638889.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|690000.00|3|690000.00|3|0.00|0|0.00|0|0.00|0.00|0.00|0|638889.00|0.00|0.00|638889.00
+EMP|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|2|0|0|0|6052298.00|329472.00|-18333.00|1|0.00|0|0.00|2.00|610700.00|9|0.00|0|430262.00|1|7184974.00|2|7184974.00|2|0.00|0|0.00|0|0.00|329472.00|0.00|0|6194799.00|-142501.00|-142501.00|6052298.00
+EMP|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|1|0|0|0|61585522.00|4428210.00|0.00|0|0.00|0|0.00|0.00|0.00|1|0.00|0|211411756.00|7|72843486.00|2|72843486.00|2|0.00|0|0.00|0|0.00|4428210.00|0.00|0|61585522.00|0.00|0.00|61585522.00
+EMPSHFT|Eventos|3|Eventos|3|Glismariams|Barrios Jimenez|80|1| |0| |0|CENTRAL PATACONES|5|0|638889.00|0.00|0.00|0.00|3|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|51111.00|0.00|690000.00|690000.00|3|690000.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|Glismariams|Barrios Jimenez|80|1| |0| |0|DOMICILIOS|3|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|638889.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|1| |0| |0|CAPS|1|0|6052298.00|-142501.00|0.00|329472.00|2|0|0.00|0|-18333.00|1|0.00|0|610700.00|9|0.00|0|0|0|329472.00|0|329472.00|2|0.00|0|1036128.00|0.00|0.00|0.00|0.00|0.00|803202.00|0.00|7345806.00|7184974.00|2|7184974.00|2|0.00|0|0.00|0|2.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CAPS|1|0|61585522.00|0.00|0.00|4428210.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|4428210.00|0|4428210.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|6829754.00|0.00|72843486.00|72843486.00|1|72843486.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CENTRAL PATACONES|5|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-142501.00|1|-142501.00
+EMPTM|Eventos|3|Eventos|3|Glismariams|Barrios Jimenez|80|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Efectivo|101|Efectivo|101|Payment|-430260.00|0
+EMPTM|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Master Card|202|Master Card|202|Payment|1540707.00|1
+EMPTM|Eventos|3|Eventos|3|John|Rozo Moreno|83|Master Card|202|Master Card|202|Payment|690000.00|3
+EMPTM|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|Cuenta X Cobrar|206|Cuenta X Cobrar|206|Payment|6074527.00|1
+EMPTM|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|Anticipo|208|Anticipo|208|Payment|36421743.00|1
+EMPTM|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|Cuenta X Cobrar|206|Cuenta X Cobrar|206|Payment|36421743.00|1
+EMPOTSLS|Restaurante|1|Restaurante|1|John|Rozo Moreno|83|OT1|1|Order Type Master 1|1|2|0|0|0|6052298.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|6052298.00
+EMPOTSLS|Eventos|3|Eventos|3|Glismariams|Barrios Jimenez|80|OT1|1|Order Type Master 1|1|3|0|0|0|638889.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|638889.00
+EMPOTSLS|Eventos|3|Eventos|3|Guelvis Jose|Chirinos Barbera|84|OT1|1|Order Type Master 1|1|1|0|0|0|61585522.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|61585522.00

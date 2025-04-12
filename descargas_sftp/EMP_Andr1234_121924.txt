@@ -1,0 +1,29 @@
+EMPID|Andr1234|Andres Plaza Santafe|20241219|20241219|20250120|122216|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|2|0.00|0|0.00|0|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|dispo|dispo|90000005|62|125|0|0|7656875.00|684079.00|-511017.00|32|0.00|0|-102886.00|0.00|529400.00|26|0.00|0|9909.00|3|8953479.00|62|8953479.00|57|0.00|0|0.00|0|0.00|684079.00|0.00|0|7656875.00|0.00|0.00|7656875.00
+EMP|Domicilios|20|Domicilios|20|dispo|dispo|90000005|11|0|0|0|167300.00|0.00|0.00|0|0.00|0|0.00|0.00|132000.00|2|0.00|0|28600.00|2|181000.00|11|181000.00|11|0.00|0|0.00|0|0.00|0.00|0.00|0|171300.00|-4000.00|-4000.00|167300.00
+EMP|Plataformas|21|Plataformas|21|dispo|dispo|90000005|6|0|0|0|492871.00|0.00|0.00|0|0.00|0|0.00|0.00|104700.00|4|0.00|0|169100.00|1|532300.00|6|532300.00|6|0.00|0|0.00|0|0.00|0.00|0.00|0|492871.00|0.00|0.00|492871.00
+EMPSHFT|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|1| |0| |0|CAFETERIA|2|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|7656875.00|0.00|0.00|684079.00|62|125|0.00|0|-511017.00|32|0.00|0|529400.00|26|0.00|0|0|0|684079.00|0|684079.00|54|0.00|0|8341172.00|0.00|0.00|0.00|0.00|0.00|612525.00|-102886.00|9567382.00|8953479.00|62|8953479.00|57|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|167300.00|-4000.00|0.00|0.00|11|0|0.00|0|0.00|0|0.00|0|132000.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|167300.00|0.00|0.00|0.00|0.00|0.00|13700.00|0.00|185000.00|181000.00|11|181000.00|11|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|492871.00|0.00|0.00|0.00|6|0|0.00|0|0.00|0|0.00|0|104700.00|4|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|39429.00|0.00|532300.00|532300.00|6|532300.00|6|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-4000.00|2|-4000.00
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Visa|204|Visa|204|Payment|319473.00|2
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Efectivo|101|Efectivo|101|Payment|-890.00|0
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Master Card|202|Master Card|202|Payment|130200.00|3
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|dispo|dispo|90000005|CxC Rappi|210|CxC Rappi|210|Payment|492600.00|5
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Diners|203|Diners|203|Payment|130892.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Visa|204|Visa|204|Payment|3399872.00|18
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Efectivo|101|Efectivo|101|Payment|920510.00|14
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Efectivo|101|Efectivo|101|Payment|28600.00|5
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Master Card|202|Master Card|202|Payment|3938154.00|26
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Master Card|202|Master Card|202|Payment|152400.00|6
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Sodexo|303|Sodexo|303|Payment|115268.00|1
+EMPTM|Plataformas|21|Plataformas|21|dispo|dispo|90000005|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|39700.00|1
+EMPOTSLS|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Para Aqui|1|Para Aqui|1|62|125|0|0|7656875.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|7656875.00
+EMPOTSLS|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Para Llevar|2|Para Llevar|2|2|0|0|0|110927.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|110927.00
+EMPOTSLS|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Para Aqui|1|Para Aqui|1|9|0|0|0|56373.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|56373.00
+EMPOTSLS|Plataformas|21|Plataformas|21|dispo|dispo|90000005|Domicilios|7|Domicilios|7|6|0|0|0|492871.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|492871.00

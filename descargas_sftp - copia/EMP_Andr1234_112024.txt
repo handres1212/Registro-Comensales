@@ -1,0 +1,59 @@
+EMPID|Andr1234|Andres Plaza Santafe|20241120|20241120|20241222|122256|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|1|0|0|0|0.00|0.00|-5250.00|3|0.00|0|-400.00|0.00|0.00|0|0.00|0|2950.00|1|0.00|1|0.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Plataformas|21|Plataformas|21|Andres Felipe|Sanchez Salamanca|5003|1|0|0|0|0.00|0.00|-4444.00|1|0.00|0|-356.00|0.00|0.00|0|0.00|0|0.00|0|0.00|1|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|39|136|0|0|3976957.00|383313.00|-58204.00|8|0.00|0|-43682.00|-3.00|230900.00|15|-37593.00|5|0.00|2|4678410.00|40|4678410.00|38|0.00|0|0.00|0|0.00|383313.00|0.00|0|3976957.00|0.00|0.00|3976957.00
+EMP|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|13|0|0|0|111856.00|0.00|0.00|0|0.00|0|0.00|0.00|20200.00|3|0.00|0|5000.00|3|120800.00|13|120800.00|13|0.00|0|0.00|0|0.00|0.00|0.00|0|111856.00|0.00|0.00|111856.00
+EMP|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|21|0|0|0|1431390.00|0.00|0.00|0|0.00|0|0.00|0.00|214100.00|6|0.00|0|39100.00|3|1545900.00|21|1545900.00|22|0.00|0|0.00|0|0.00|0.00|0.00|0|1431390.00|0.00|0.00|1431390.00
+EMP|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|2|7|0|0|298798.00|29879.00|0.00|0|0.00|0|0.00|2.00|0.00|0|0.00|0|0.00|0|352581.00|2|352581.00|2|0.00|0|0.00|0|0.00|29879.00|0.00|0|298798.00|0.00|0.00|298798.00
+EMP|Plataformas|21|Plataformas|21|Marisol|Suarique|90000004|1|0|0|0|50463.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|54500.00|1|54500.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|50463.00|0.00|0.00|50463.00
+EMP|Domicilios|20|Domicilios|20|Milton|Benavides Deiva|80000005|2|0|0|0|9260.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|10000.00|2|10000.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|9260.00|0.00|0.00|9260.00
+EMP|Plataformas|21|Plataformas|21|Milton|Benavides Deiva|80000005|1|0|0|0|38981.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|42100.00|1|42100.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|38981.00|0.00|0.00|38981.00
+EMPSHFT|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|1| |0| |0|CAFETERIA|2|0|0.00|0.00|0.00|-250.00|0|0|0.00|0|-2750.00|2|0.00|0|0.00|0|0.00|0|0|0|-250.00|0|-250.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-200.00|2700.00|-250.00|0|-250.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|250.00|1|0|0.00|0|-2500.00|1|0.00|0|0.00|0|0.00|0|0|0|250.00|0|250.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-200.00|2950.00|250.00|1|250.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Andres Felipe|Sanchez Salamanca|5003|1| |0| |0|CAFETERIA|2|0|-4444.00|0.00|0.00|0.00|0|0|0.00|0|-4444.00|1|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|-356.00|-356.00|0.00|-4800.00|0|-4800.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Andres Felipe|Sanchez Salamanca|5003|1| |0| |0|CAPS|1|0|4444.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|356.00|0.00|4800.00|4800.00|1|4800.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Milton|Benavides Deiva|80000005|1| |0| |0|ASADERO|3|0|38981.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|3119.00|0.00|42100.00|42100.00|1|42100.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Milton|Benavides Deiva|80000005|1| |0| |0|ASADERO|3|0|9260.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|9260.00|0.00|0.00|0.00|0.00|0.00|740.00|0.00|10000.00|10000.00|2|10000.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|13851.00|0|13851.00|1|0.00|0|152370.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-1.00|0|163450.00|1|0.00|0|0.00|0|-1.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|1| |0| |0|CAFETERIA|2|0|111856.00|0.00|0.00|0.00|13|0|0.00|0|0.00|0|0.00|0|20200.00|3|0.00|0|0|0|0.00|0|0.00|0|0.00|0|97966.00|0.00|0.00|0.00|0.00|0.00|8944.00|0.00|120800.00|120800.00|13|120800.00|13|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|1| |0| |0|ASADERO|3|0|44075.00|0.00|0.00|4408.00|0|0|0.00|0|0.00|0|0.00|0|13400.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|82853.00|0.00|0.00|0.00|0.00|0.00|3525.00|0.00|52008.00|52008.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|1| |0| |0|ASADERO|3|0|93796.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|7504.00|0.00|101300.00|101300.00|1|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|180500.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|1| |0| |0|CAFETERIA|2|0|3932882.00|0.00|0.00|378905.00|39|136|0.00|0|-58204.00|8|-37593.00|5|217500.00|13|0.00|0|0|0|369462.00|0|369462.00|37|0.00|0|4206885.00|0.00|0.00|0.00|0.00|0.00|314618.00|-43682.00|4728291.00|4626403.00|40|4514960.00|37|0.00|0|0.00|0|-2.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|1| |0| |0|ASADERO|3|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|13890.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|1| |0| |0|CAFETERIA|2|0|1337594.00|0.00|0.00|0.00|20|0|0.00|0|0.00|0|0.00|0|214100.00|6|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|107006.00|0.00|1444600.00|1444600.00|20|1365400.00|19|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|1| |0| |0|CAPS|1|0|65926.00|0.00|0.00|6593.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|5274.00|0.00|77793.00|77793.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|1| |0| |0|CAFETERIA|2|0|163796.00|0.00|0.00|16379.00|1|3|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|9083.00|0|9083.00|1|0.00|0|328679.00|0.00|0.00|0.00|0.00|0.00|13104.00|0.00|193279.00|193281.00|1|107185.00|1|0.00|0|0.00|0|2.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Marisol|Suarique|90000004|1| |0| |0|CAFETERIA|2|0|50463.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|4037.00|0.00|54500.00|54500.00|1|54500.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|1| |0| |0|ASADERO|3|0|69076.00|0.00|0.00|6907.00|1|4|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|20796.00|0|20796.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|5524.00|0.00|81507.00|81507.00|1|245396.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPTM|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Andres Felipe|Sanchez Salamanca|5003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|CxC Rappi|210|CxC Rappi|210|Payment|1363600.00|18
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Visa|204|Visa|204|Payment|1319739.00|9
+EMPTM|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Visa|204|Visa|204|Payment|38000.00|2
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Efectivo|101|Efectivo|101|Payment|763830.00|7
+EMPTM|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Efectivo|101|Efectivo|101|Payment|20000.00|4
+EMPTM|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Master Card|202|Master Card|202|Payment|2560209.00|20
+EMPTM|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Master Card|202|Master Card|202|Payment|42800.00|3
+EMPTM|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|182300.00|3
+EMPTM|Plataformas|21|Plataformas|21|Marisol|Suarique|90000004|CxC Rappi|210|CxC Rappi|210|Payment|54500.00|1
+EMPTM|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|Efectivo|101|Efectivo|101|Payment|163450.00|1
+EMPTM|Restaurante|1|Restaurante|1|Milton|Benavides Deiva|80000005|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Milton|Benavides Deiva|80000005|CxC Rappi|210|CxC Rappi|210|Payment|42100.00|1
+EMPTM|Restaurante|1|Restaurante|1|Milton|Benavides Deiva|80000005|Visa|204|Visa|204|Payment|75389.00|1
+EMPTM|Domicilios|20|Domicilios|20|Milton|Benavides Deiva|80000005|Efectivo|101|Efectivo|101|Payment|20000.00|4
+EMPTM|Restaurante|1|Restaurante|1|Milton|Benavides Deiva|80000005|Master Card|202|Master Card|202|Payment|148374.00|1
+EMPTM|Domicilios|20|Domicilios|20|Milton|Benavides Deiva|80000005|Master Card|202|Master Card|202|Payment|10000.00|2
+EMPOTSLS|Plataformas|21|Plataformas|21|Andres Felipe|Sanchez Salamanca|5003|Para Aqui|1|Para Aqui|1|1|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|Para Aqui|1|Para Aqui|1|5|0|0|0|281296.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|281296.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Marisol|Suarique|90000004|Para Aqui|1|Para Aqui|1|1|0|0|0|50463.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|50463.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Milton|Benavides Deiva|80000005|Para Aqui|1|Para Aqui|1|2|0|0|0|9260.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|9260.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Laura Sophia| Chaves|90000003|Para Aqui|1|Para Aqui|1|13|0|0|0|111856.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|111856.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Laura Sophia| Chaves|90000003|Domicilios|7|Domicilios|7|16|0|0|0|1150094.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|1150094.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Marisol|Suarique|90000004|Para Aqui|1|Para Aqui|1|2|7|0|0|298798.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|298798.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Andres Felipe|Sanchez Salamanca|5003|Para Aqui|1|Para Aqui|1|1|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Milton|Benavides Deiva|80000005|Domicilios|7|Domicilios|7|1|0|0|0|38981.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|38981.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Laura Sophia| Chaves|90000003|Para Aqui|1|Para Aqui|1|39|136|0|0|3976957.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|3976957.00

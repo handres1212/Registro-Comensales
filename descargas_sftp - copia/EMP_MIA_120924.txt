@@ -1,0 +1,44 @@
+EMPID|MIA|Andres Miami|20241209|20241209|20250110|122246|2.00|2.00|Simphony|19.7.2
+EMP|Restaurant|1|Restaurante|1|Andres|Reyes|4|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurant|1|Restaurante|1|Catalina|Herrera|45|0|-7|0|0|-85.00|-17.00|-102.00|10|0.00|0|-9.20|0.00|0.00|0|0.00|0|0.00|0|-111.20|0|756.03|5|0.00|0|0.00|0|0.00|0.00|0.00|0|-85.00|0.00|0.00|-85.00
+EMP|Restaurant|1|Restaurante|1|Sara|Diez|47|0|-4|0|0|-20.00|-4.00|-24.00|4|0.00|0|-2.16|0.00|0.00|0|0.00|0|0.00|0|-26.16|0|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|-20.00|0.00|0.00|-20.00
+EMP|Restaurant|1|Restaurante|1|Lianyi|Rivero|52|0|0|0|0|-15.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|-15.00|0|4.62|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|-15.00|-15.00|-15.00
+EMP|Restaurant|1|Restaurante|1|Anahis|Fumero|53|0|-1|0|0|-19.00|-3.80|-22.80|4|0.00|0|-2.06|0.00|0.00|0|0.00|0|0.00|0|-24.86|0|-24.86|0|0.00|0|0.00|0|0.00|0.00|0.00|0|-19.00|0.00|0.00|-19.00
+EMP|Restaurant|1|Restaurante|1|Emilio|Franco|64|0|-6|0|0|-73.00|57.22|-87.60|8|0.00|0|-7.87|0.00|0.00|0|-46.00|2|0.00|0|-23.65|0|728.43|3|0.00|0|0.00|0|0.00|0.00|0.00|0|-73.00|0.00|0.00|-73.00
+EMP|Restaurant|1|Restaurante|1|Ana|Fandiño|104|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|651.39|1|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurant|1|Restaurante|1|Kevin|Gonzalez|110|0|-1|0|0|-15.00|-3.00|-18.00|2|0.00|0|-1.62|0.00|0.00|0|0.00|0|0.00|0|-19.62|0|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|-15.00|0.00|0.00|-15.00
+EMP|Restaurant|1|Restaurante|1|Mercedes|Juarez|114|1|-5|0|0|14.00|23.80|-50.40|6|0.00|0|-4.53|0.00|25.00|1|0.00|0|0.00|0|39.31|1|145.26|5|0.00|0|0.00|0|0.00|0.00|0.00|0|14.00|0.00|0.00|14.00
+EMP|Restaurant|1|Restaurante|1|Antonella|Mezzenasco|137|0|-1|0|0|-95.00|-19.00|-114.00|5|0.00|0|-10.26|0.00|0.00|0|0.00|0|0.00|0|-124.26|0|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|-95.00|0.00|0.00|-95.00
+EMP|Restaurant|1|Restaurante|1|Sebastian|Valencia|139|0|-1|0|0|-30.50|-6.10|-36.60|5|0.00|0|-3.30|0.00|0.00|0|0.00|0|0.00|0|-39.90|0|0.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|-30.50|0.00|0.00|-30.50
+EMPSHFT|Restaurant|1|Restaurante|1|Catalina|Herrera|45|1| |0| |0|PrimerPiso1|50|0|44.00|0.00|0.00|29.80|0|0|0.00|0|0.00|0|0.00|0|25.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|731.80|99.77|29.80|0.00|0.00|153.20|4.75|0.00|78.55|78.55|0|761.60|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Emilio|Franco|64|1| |0| |0|PrimerPiso1|50|0|0.00|0.00|0.00|71.82|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|656.61|656.61|71.82|0.00|0.00|172.22|0.00|0.00|71.82|71.82|0|728.43|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Emilio|Franco|64|1| |0| |0|Joy|1|0|-46.00|0.00|0.00|-9.20|0|-5|0.00|0|-55.20|3|-46.00|2|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|9.20|9.20|-9.20|0.00|0.00|0.00|-4.96|-4.96|0.00|-60.16|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Alexander|Rodriguez|68|1| |0| |0|FuenteDeSoda|5|0|-27.00|0.00|0.00|-5.40|0|-5|0.00|0|-32.40|6|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|5.40|5.40|-5.40|0.00|0.00|0.00|-2.91|-2.91|0.00|-35.31|0|0.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Alexander|Rodriguez|68|1| |0| |0|Joy|1|0|-30.50|0.00|0.00|-6.10|0|-1|0.00|0|-36.60|5|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|6.10|6.10|-6.10|0.00|0.00|0.00|-3.30|-3.30|0.00|-39.90|0|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|1| |0| |0|Almacen|2|1|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|124.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|124.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|1| |0| |0|Almacen|2|0|-34.00|-15.00|0.00|-3.80|0|-1|0.00|0|-22.80|4|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|634.95|3.80|-3.80|0.00|0.00|98.80|-2.06|-2.06|0.00|-39.86|0|631.15|4|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Mercedes|Juarez|114|1| |0| |0|BarPrimerPiso|4|0|12.00|0.00|0.00|2.40|1|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|-2.40|-2.40|2.40|0.00|0.00|0.00|1.29|0.00|15.69|15.69|1|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|Mercedes|Juarez|114|1| |0| |0|PrimerPiso1|50|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|15.69|0.00|0.00|0.00|0.00|2.40|0.00|0.00|0.00|0.00|0|15.69|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurant|1|Restaurante|1|David|Lopez|120|1| |0| |0|Caja1|9|0|-257.00|0.00|0.00|-51.40|0|-15|0.00|0|-308.40|26|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|51.40|51.40|-51.40|0.00|0.00|0.00|-27.77|-27.77|0.00|-336.17|0|0.00|8|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|CORTESIA 100%|6|CORTESIA 100%|6|-15.00|1|-15.00
+EMPTM|Restaurant|1|Restaurante|1|Catalina|Herrera|45|Visa|52|Visa|52|Payment|266.91|3
+EMPTM|Restaurant|1|Restaurante|1|Catalina|Herrera|45|Mastercard|53|Mastercard|53|Payment|371.02|3
+EMPTM|Restaurant|1|Restaurante|1|Catalina|Herrera|45|Amex|54|Amex|54|Payment|123.67|1
+EMPTM|Restaurant|1|Restaurante|1|Catalina|Herrera|45|Tips Paid|212|Tips Paid|212|Paid Out|153.20|4
+EMPTM|Restaurant|1|Restaurante|1|Emilio|Franco|64|Visa|52|Visa|52|Payment|445.80|5
+EMPTM|Restaurant|1|Restaurante|1|Emilio|Franco|64|Mastercard|53|Mastercard|53|Payment|90.28|1
+EMPTM|Restaurant|1|Restaurante|1|Emilio|Franco|64|Amex|54|Amex|54|Payment|192.35|2
+EMPTM|Restaurant|1|Restaurante|1|Emilio|Franco|64|Tips Paid|212|Tips Paid|212|Paid Out|172.22|9
+EMPTM|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|Cash|2|Cash|2|Payment|124.00|1
+EMPTM|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|Mastercard|53|Mastercard|53|Payment|651.39|2
+EMPTM|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|Tips Paid|212|Tips Paid|212|Paid Out|98.80|1
+EMPTM|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|Cuenta X Cobrar|4|Cuenta X Cobrar|4|Payment|4.62|1
+EMPTM|Restaurant|1|Restaurante|1|Mercedes|Juarez|114|Visa|52|Visa|52|Payment|15.69|1
+EMPTM|Restaurant|1|Restaurante|1|Mercedes|Juarez|114|Tips Paid|212|Tips Paid|212|Paid Out|2.40|1
+EMPTM|Restaurant|1|Restaurante|1|David|Lopez|120|Cash|2|Cash|2|Payment|-24.86|-1
+EMPOTSLS|Restaurant|1|Restaurante|1|Alexander|Rodriguez|68|Dine In|1|Dine In|1|0|-6|0|0|-57.50|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-57.50
+EMPOTSLS|Restaurant|1|Restaurante|1|Catalina|Herrera|45|Dine In|1|Dine In|1|0|0|0|0|44.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|44.00
+EMPOTSLS|Restaurant|1|Restaurante|1|David|Lopez|120|Dine In|1|Dine In|1|0|-15|0|0|-257.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-257.00
+EMPOTSLS|Restaurant|1|Restaurante|1|Luisa Fernanda|Rosales|71|Dine In|1|Dine In|1|0|-1|0|0|-34.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-34.00
+EMPOTSLS|Restaurant|1|Restaurante|1|Mercedes|Juarez|114|Dine In|1|Dine In|1|1|1|0|0|12.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|12.00
+EMPOTSLS|Restaurant|1|Restaurante|1|Emilio|Franco|64|Dine In|1|Dine In|1|0|-5|0|0|-46.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|-46.00

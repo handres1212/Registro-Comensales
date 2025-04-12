@@ -1,0 +1,13 @@
+EMPID|IBG|Andres Calera|20241219|20241219|20250120|122216|2.00|2.00|Simphony|19.7.2
+EMP|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|19|29|0|0|3528244.00|322417.00|0.00|0|0.00|0|-26694.00|-1.00|63400.00|4|0.00|0|0.00|0|4132916.00|19|4132916.00|19|0.00|0|0.00|0|0.00|322417.00|0.00|0|3528244.00|0.00|0.00|3528244.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|BARRA COCINA|2|0|315276.00|0.00|0.00|4369.00|1|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|22962.00|0|22962.00|2|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|25224.00|-26694.00|371563.00|344869.00|1|559262.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|CAPS|1|0|3212968.00|0.00|0.00|318048.00|18|28|0.00|0|0.00|0|0.00|0|63400.00|4|0.00|0|0|0|299455.00|0|299455.00|9|0.00|0|3850660.00|0.00|0.00|0.00|0.00|0.00|257032.00|0.00|3788048.00|3788047.00|18|3573654.00|16|0.00|0|0.00|0|-1.00|0.00|0|0.00
+EMPTM|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Efectivo|101|Efectivo|101|Payment|288300.00|6
+EMPTM|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Jari|Ávila C.|202210010|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Master Card|202|Master Card|202|Payment|3001184.00|6
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Efectivo|101|Efectivo|101|Payment|138930.00|7
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Visa|204|Visa|204|Payment|704502.00|5
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Llevar|2|Para Llevar|2|2|2|0|0|224817.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|224817.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|17|27|0|0|3303427.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|3303427.00

@@ -1,0 +1,13 @@
+EMPID|DOR|Andres Aeropuerto|20241215|20241215|20250116|122209|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|254|486|0|0|25895226.00|2500600.00|-415949.00|44|0.00|0|-86037.00|0.00|2980800.00|45|0.00|0|14900.00|3|30467400.00|256|30467400.00|227|0.00|0|0.00|0|0.00|2500600.00|0.00|0|25947355.00|-52129.00|-52129.00|25895226.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|1| |0| |0|Bar|3|0|1121852.00|-50648.00|0.00|91700.00|25|26|0.00|0|-100.00|1|0.00|0|0.00|0|0.00|0|0|0|196200.00|0|196200.00|21|0.00|0|401871.00|0.00|0.00|0.00|0.00|0.00|89748.00|-29452.00|1383500.00|1303300.00|25|2355800.00|23|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|1| |0| |0|Almacen|1|0|24773374.00|-1481.00|0.00|2408900.00|229|460|0.00|0|-415849.00|43|0.00|0|2980800.00|45|0.00|0|0|0|2304400.00|0|2304400.00|188|0.00|0|28090855.00|0.00|0.00|0.00|0.00|0.00|1981826.00|-56585.00|29638015.00|29164100.00|231|28111600.00|204|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Descuento 20%|4|Descuento 20%|4|-52129.00|2|-52129.00
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Efectivo |101|Efectivo |101|Payment|3346200.00|57
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|American Express|201|American Express|201|Payment|1007700.00|9
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Master Card|202|Master Card|202|Payment|13509334.00|102
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Visa|204|Visa|204|Payment|12500766.00|86
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Sodexo|303|Sodexo|303|Payment|103400.00|1
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Contado|207|Contado|207|Payment|0.00|0
+EMPOTSLS|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Para Llevar|2|Para Llevar/DOR|0|18|18|0|0|915464.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|915464.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Para Aqui|1|Para Aqui/DOR|0|236|468|0|0|24979762.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|24979762.00

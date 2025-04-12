@@ -1,0 +1,20 @@
+EMPID|DOR|Andres Aeropuerto|20241123|20241123|20241225|122231|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|RIOS|KAROL |1016|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|209|336|0|0|17487350.00|1692600.00|-253923.00|19|0.00|0|-65147.00|0.00|719400.00|34|0.00|0|141700.00|5|20579000.00|210|20579000.00|199|0.00|0|0.00|0|0.00|1692600.00|0.00|0|17489480.00|-2130.00|-2130.00|17487350.00
+EMP|Restaurante|1|Restaurante|1|Valeria |Barrera|1030|10|14|0|0|846845.00|84700.00|-173763.00|18|0.00|0|-12637.00|0.00|30700.00|2|0.00|0|29300.00|1|999300.00|10|999300.00|10|0.00|0|0.00|0|0.00|84700.00|0.00|0|846845.00|0.00|0.00|846845.00
+EMPSHFT|Restaurante|1|Restaurante|1|RIOS|KAROL |1016|1| |0| |0|Almacen|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|0.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Valeria |Barrera|1030|1| |0| |0|Bar|3|0|41203.00|0.00|0.00|4100.00|2|1|0.00|0|-128460.00|13|0.00|0|9900.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|3297.00|-9340.00|186400.00|48600.00|2|0.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Valeria |Barrera|1030|1| |0| |0|Almacen|1|0|805642.00|0.00|0.00|80600.00|8|13|0.00|0|-45303.00|5|0.00|0|20800.00|1|0.00|0|0|0|84700.00|0|84700.00|8|0.00|0|931545.00|0.00|0.00|0.00|0.00|0.00|64458.00|-3297.00|999300.00|950700.00|8|999300.00|9|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|1| |0| |0|Bar|3|0|317500.00|0.00|0.00|31800.00|3|6|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|44700.00|0|44700.00|4|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|25400.00|0.00|374700.00|374700.00|3|527500.00|4|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|1| |0| |0|Almacen|1|0|17169850.00|-2130.00|0.00|1660800.00|206|330|0.00|0|-253923.00|19|0.00|0|719400.00|34|0.00|0|0|0|1647900.00|0|1647900.00|181|0.00|0|19244550.00|0.00|0.00|0.00|0.00|0.00|1373650.00|-65147.00|20525500.00|20204300.00|207|20051500.00|195|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Descuento 20%|4|Descuento 20%|4|-2130.00|1|-2130.00
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Efectivo |101|Efectivo |101|Payment|4057500.00|61
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|American Express|201|American Express|201|Payment|922400.00|9
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Master Card|202|Master Card|202|Payment|11530115.00|115
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Visa|204|Visa|204|Payment|4871185.00|52
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Contado|207|Contado|207|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Valeria |Barrera|1030|Efectivo |101|Efectivo |101|Payment|197100.00|3
+EMPTM|Restaurante|1|Restaurante|1|Valeria |Barrera|1030|Contado|207|Contado|207|Payment|0.00|0
+EMPOTSLS|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Para Aqui|1|Para Aqui/DOR|0|193|317|0|0|17307531.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|17307531.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Para Llevar|2|Para Llevar/DOR|0|16|19|0|0|179819.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|179819.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Valeria |Barrera|1030|Para Aqui|1|Para Aqui/DOR|0|10|14|0|0|846845.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|846845.00

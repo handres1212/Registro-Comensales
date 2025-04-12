@@ -1,0 +1,31 @@
+EMPID|Andr1234567|Andres Expres PepeSierra|20241220|20241220|20250121|122213|2.00|2.00|Simphony|19.7.2
+EMP|Eventos|3|Eventos|3|Andres Felipe|Sanchez|79|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|130346.00|8|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|1|0|0|0|278891.00|27888.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|1603048.00|6|329088.00|1|329088.00|1|0.00|0|0.00|0|0.00|27888.00|0.00|0|278891.00|0.00|0.00|278891.00
+EMP|Eventos|3|Eventos|3|Natalia|Tellez Velandia|148|1|0|0|0|2198415.00|219836.00|0.00|0|0.00|0|0.00|0.00|1348900.00|9|0.00|0|1792176.00|9|2594136.00|1|2594136.00|1|0.00|0|0.00|0|0.00|219836.00|0.00|0|2198415.00|0.00|0.00|2198415.00
+EMP|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|10|0|0|0|600294.00|0.00|0.00|0|0.00|0|0.00|0.00|91200.00|2|0.00|0|0.00|1|649100.00|10|649100.00|10|0.00|0|0.00|0|0.00|0.00|0.00|0|610094.00|-9800.00|-9800.00|600294.00
+EMP|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|25|0|0|0|1731068.00|0.00|0.00|0|0.00|0|0.00|0.00|217300.00|4|0.00|0|120200.00|6|1869550.00|25|1869550.00|25|0.00|0|0.00|0|0.00|0.00|0.00|0|1731068.00|0.00|0.00|1731068.00
+EMP|Restaurante|1|Restaurante|1|SANTIAGO|RUBIO CERQUERA|155|14|0|0|0|1725006.00|172494.00|-6389.00|1|0.00|0|0.00|-2.00|52800.00|5|0.00|0|994475.00|6|2035492.00|14|2035492.00|14|0.00|0|0.00|0|0.00|172494.00|0.00|0|1725006.00|0.00|0.00|1725006.00
+EMPSHFT|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|278891.00|0.00|0.00|27888.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|27888.00|0|27888.00|1|0.00|0|306779.00|0.00|0.00|0.00|0.00|0.00|22309.00|0.00|329088.00|329088.00|1|329088.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|1731068.00|0.00|0.00|0.00|25|0|0.00|0|0.00|0|0.00|0|217300.00|4|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|138482.00|0.00|1869550.00|1869550.00|25|1869550.00|25|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Eventos|3|Eventos|3|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|2198415.00|0.00|0.00|219836.00|1|0|0.00|0|0.00|0|0.00|0|1348900.00|9|0.00|0|0|0|219836.00|0|219836.00|1|0.00|0|2418251.00|0.00|0.00|0.00|0.00|0.00|175885.00|0.00|2594136.00|2594136.00|1|2594136.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|1| |0| |0|CAPS|1|0|600294.00|-9800.00|0.00|0.00|10|0|0.00|0|0.00|0|0.00|0|91200.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|600294.00|0.00|0.00|0.00|0.00|0.00|48806.00|0.00|658900.00|649100.00|10|649100.00|10|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|SANTIAGO|RUBIO CERQUERA|155|1| |0| |0|CAPS|1|0|66204.00|0.00|0.00|6620.00|0|0|0.00|0|-6389.00|1|0.00|0|4900.00|1|0.00|0|0|0|172494.00|0|172494.00|14|0.00|0|1996495.00|0.00|0.00|0.00|0.00|0.00|5296.00|0.00|84509.00|78118.00|0|2035492.00|14|0.00|0|0.00|0|-2.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|SANTIAGO|RUBIO CERQUERA|155|1| |0| |0|Meseros Pepe Sierra|2|0|1658802.00|0.00|0.00|165874.00|14|0|0.00|0|0.00|0|0.00|0|47900.00|4|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|132698.00|0.00|1957374.00|1957374.00|14|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-9800.00|1|-9800.00
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Eventos|3|Eventos|3|Natalia|Tellez Velandia|148|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|CxC Rappi|210|CxC Rappi|210|Payment|1869550.00|25
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Efectivo |101|Efectivo |101|Payment|129470.00|2
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Efectivo |101|Efectivo |101|Payment|52900.00|2
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Master Card|202|Master Card|202|Payment|1168197.00|8
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Master Card|202|Master Card|202|Payment|258900.00|7
+EMPTM|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Visa |204|Visa |204|Payment|1066913.00|8
+EMPTM|Eventos|3|Eventos|3|Natalia|Tellez Velandia|148|Visa |204|Visa |204|Payment|2594136.00|1
+EMPTM|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Visa |204|Visa |204|Payment|337300.00|5
+EMPOTSLS|Restaurante|1|Restaurante|1|SANTIAGO|RUBIO CERQUERA|155|Para Aqui|1|Para Aqui|1|14|0|0|0|1725006.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|1725006.00
+EMPOTSLS|Eventos|3|Eventos|3|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|2198415.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|2198415.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Natalia|Tellez Velandia|148|Domicilios|7|Domicilios|7|25|0|0|0|1731068.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|1731068.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Natalia|Tellez Velandia|148|Para Aqui|1|Para Aqui|1|1|0|0|0|278891.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|278891.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Natalia|Tellez Velandia|148|Para Llevar|2|Para Llevar|2|10|0|0|0|600294.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|600294.00

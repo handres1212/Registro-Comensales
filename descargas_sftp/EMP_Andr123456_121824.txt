@@ -1,0 +1,99 @@
+EMPID|Andr123456|Andres Plaza Retiro|20241218|20241218|20250119|122221|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|113|0|0|0|14633463.00|1447572.00|-279409.00|31|0.00|0|-28441.00|9.00|337600.00|20|0.00|0|3933.00|4|17251684.00|113|17318660.00|112|0.00|0|0.00|0|0.00|1453248.00|0.00|0|14633463.00|0.00|0.00|14633463.00
+EMP|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|12|0|0|0|285558.00|0.00|0.00|0|0.00|0|0.00|0.00|53100.00|3|0.00|0|31600.00|2|308400.00|12|308400.00|12|0.00|0|0.00|0|0.00|0.00|0.00|0|291021.00|-5463.00|-5463.00|285558.00
+EMP|Plataformas|21|Plataformas|21|Glismariams|Barrios Jimenez|80|2|0|0|0|47963.00|0.00|0.00|0|0.00|0|0.00|0.00|49600.00|2|0.00|0|0.00|0|51800.00|2|51800.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|47963.00|0.00|0.00|47963.00
+EMP|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|69|0|0|0|10254307.00|997527.00|-556432.00|40|0.00|0|-31593.00|-8.00|154000.00|11|0.00|0|0.00|4|12072122.00|70|12101294.00|69|0.00|0|0.00|0|0.00|999999.00|0.00|0|10280974.00|-26667.00|-26667.00|10254307.00
+EMP|Domicilios|20|Domicilios|20|Jhon Jairo|Carmen Cuevas|81|2|0|0|0|38890.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|42000.00|2|42000.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|38890.00|0.00|0.00|38890.00
+EMP|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|5|0|0|0|400560.00|0.00|0.00|0|0.00|0|0.00|0.00|49200.00|4|0.00|0|30200.00|3|432605.00|5|432605.00|5|0.00|0|0.00|0|0.00|0.00|0.00|0|400560.00|0.00|0.00|400560.00
+EMP|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|123|0|0|0|13443471.00|1309945.00|-82926.00|10|0.00|0|-15102.00|-20.00|643300.00|31|0.00|0|0.00|5|15828823.00|123|15713664.00|120|0.00|0|0.00|0|0.00|1300186.00|0.00|0|13447453.00|-3982.00|-3982.00|13443471.00
+EMP|Domicilios|20|Domicilios|20|Guelvis Jose|Chirinos Barbera|84|1|0|0|0|17963.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|21300.00|1|19400.00|1|19400.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|17963.00|0.00|0.00|17963.00
+EMP|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|4|0|0|0|380094.00|0.00|0.00|0|0.00|0|0.00|0.00|132600.00|5|0.00|0|113300.00|2|410500.00|4|410500.00|4|0.00|0|0.00|0|0.00|0.00|0.00|0|380094.00|0.00|0.00|380094.00
+EMP|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|34|0|0|0|3628340.00|300762.00|-60676.00|9|0.00|0|-66011.00|2.00|348800.00|17|0.00|0|38022.00|2|4219364.00|34|4238375.00|34|0.00|0|0.00|0|0.00|302373.00|0.00|0|3628340.00|0.00|0.00|3628340.00
+EMP|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|8|0|0|0|370931.00|0.00|0.00|0|0.00|0|0.00|0.00|5900.00|1|0.00|0|2700.00|2|400600.00|8|400600.00|8|0.00|0|0.00|0|0.00|0.00|0.00|0|370931.00|0.00|0.00|370931.00
+EMP|Plataformas|21|Plataformas|21|Paula Jineth|Moreno Leon|85|21|0|0|0|1018427.00|0.00|0.00|0|0.00|0|0.00|0.00|206000.00|7|0.00|0|21800.00|2|1099900.00|21|1099900.00|21|0.00|0|0.00|0|0.00|0.00|0.00|0|1018427.00|0.00|0.00|1018427.00
+EMPSHFT|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|1| |0| |0|CENTRAL|4|0|1670836.00|0.00|0.00|167079.00|0|0|0.00|0|-101389.00|4|0.00|0|105600.00|4|0.00|0|0|0|0.00|0|0.00|0|0.00|0|2184191.00|0.00|0.00|0.00|0.00|0.00|133664.00|0.00|2072968.00|1971579.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|1| |0| |0|CAFETERIA|2|0|17314.00|0.00|0.00|1732.00|0|0|0.00|0|-113056.00|9|0.00|0|0.00|0|0.00|0|0|0|39878.00|0|39878.00|7|0.00|0|54487.00|0.00|0.00|0.00|0.00|0.00|1387.00|-8221.00|141710.00|20430.00|0|470575.00|6|0.00|0|0.00|0|-3.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|1| |0| |0|CENTRAL PATACONES|5|0|1471758.00|0.00|0.00|147171.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|729870.00|0|729870.00|22|0.00|0|6730674.00|0.00|0.00|0.00|0.00|0.00|117742.00|0.00|1736671.00|1736676.00|0|8612675.00|22|0.00|0|0.00|0|5.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|1| |0| |0|DOMICILIOS|3|0|285558.00|-5463.00|0.00|0.00|12|0|0.00|0|0.00|0|0.00|0|53100.00|3|0.00|0|0|0|0.00|0|0.00|0|0.00|0|285558.00|0.00|0.00|0.00|0.00|0.00|22842.00|0.00|313863.00|308400.00|12|308400.00|12|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|1| |0| |0|DOMICILIOS|3|0|11473555.00|0.00|0.00|1131590.00|113|0|0.00|0|-64964.00|18|0.00|0|232000.00|16|0.00|0|0|0|683500.00|0|683500.00|77|0.00|0|8063603.00|0.00|0.00|0.00|0.00|0.00|917847.00|-20220.00|13608176.00|13522999.00|113|8235410.00|84|0.00|0|0.00|0|7.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Glismariams|Barrios Jimenez|80|1| |0| |0|DOMICILIOS|3|0|47963.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|49600.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|3837.00|0.00|51800.00|51800.00|2|51800.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|DOMICILIOS|3|0|1333805.00|-26667.00|0.00|116505.00|17|0|0.00|0|-32268.00|3|0.00|0|21300.00|2|0.00|0|0|0|212187.00|0|212187.00|21|0.00|0|2517958.00|0.00|0.00|0.00|0.00|0.00|106695.00|-3060.00|1619000.00|1556995.00|17|2686077.00|20|0.00|0|0.00|0|-10.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|DOMICILIOS|3|0|38890.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|38890.00|0.00|0.00|0.00|0.00|0.00|3110.00|0.00|42000.00|42000.00|2|42000.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|DOMICILIOS|3|0|205374.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|16431.00|0.00|221805.00|221805.00|2|221805.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|CAFETERIA|2|0|666763.00|0.00|0.00|55674.00|6|0|0.00|0|-29388.00|1|0.00|0|28800.00|1|0.00|0|0|0|14509.00|0|14509.00|6|0.00|0|377608.00|0.00|0.00|0.00|0.00|0.00|53339.00|0.00|805164.00|775770.00|7|290005.00|6|0.00|0|0.00|0|-6.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|CAFETERIA|2|0|195186.00|0.00|0.00|0.00|3|0|0.00|0|0.00|0|0.00|0|49200.00|4|0.00|0|0|0|0.00|0|0.00|0|0.00|0|1852.00|0.00|0.00|0.00|0.00|0.00|15614.00|0.00|210800.00|210800.00|3|210800.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|CENTRAL|4|0|5439004.00|0.00|0.00|543883.00|32|0|0.00|0|-112065.00|4|0.00|0|21800.00|3|0.00|0|0|0|0.00|0|0.00|0|0.00|0|844048.00|0.00|0.00|0.00|0.00|0.00|435096.00|-1430.00|6531478.00|6417983.00|32|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|1| |0| |0|CENTRAL PATACONES|5|0|2814735.00|0.00|0.00|281465.00|14|0|0.00|0|-382711.00|32|0.00|0|82100.00|5|0.00|0|0|0|773303.00|0|773303.00|44|0.00|0|7918629.00|0.00|0.00|0.00|0.00|0.00|225166.00|-27103.00|3731180.00|3321374.00|14|9125212.00|43|0.00|0|0.00|0|8.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CENTRAL PATACONES|5|0|9399941.00|0.00|0.00|927604.00|77|0|0.00|0|-21834.00|5|0.00|0|579600.00|25|0.00|0|0|0|947659.00|0|947659.00|74|0.00|0|10107677.00|0.00|0.00|0.00|0.00|0.00|751959.00|-13458.00|11114796.00|11079496.00|77|11316151.00|74|0.00|0|0.00|0|-8.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|DOMICILIOS|3|0|17963.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|17963.00|0.00|0.00|0.00|0.00|0.00|1437.00|0.00|19400.00|19400.00|1|19400.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|DOMICILIOS|3|0|380094.00|0.00|0.00|0.00|4|0|0.00|0|0.00|0|0.00|0|132600.00|5|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|30406.00|0.00|410500.00|410500.00|4|410500.00|4|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|75354.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-5.00|0|-5.00|0|0.00|0|0.00|0|-5.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|3579.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CAFETERIA|2|0|13519.00|0.00|0.00|-21046.00|0|0|0.00|0|-22398.00|1|0.00|0|0.00|0|0.00|0|0|0|-11084.00|0|-11084.00|2|0.00|0|223983.00|0.00|0.00|0.00|0.00|0.00|1081.00|0.00|15952.00|-6446.00|0|111116.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|CENTRAL|4|0|121944.00|0.00|0.00|12194.00|0|0|0.00|0|0.00|0|0.00|0|14600.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|805561.00|0.00|0.00|0.00|0.00|0.00|9756.00|0.00|143894.00|143891.00|0|-3.00|0|0.00|0|0.00|0|-3.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|1| |0| |0|DOMICILIOS|3|0|3908067.00|-3982.00|0.00|391193.00|46|0|0.00|0|-38694.00|4|0.00|0|49100.00|5|0.00|0|0|0|363611.00|0|363611.00|44|0.00|0|3899592.00|0.00|0.00|0.00|0.00|0.00|312631.00|-1644.00|4656211.00|4611887.00|46|4286405.00|45|0.00|0|0.00|0|-4.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|1| |0| |0|DOMICILIOS|3|0|74815.00|0.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|303431.00|0.00|0.00|0.00|0.00|0.00|5985.00|0.00|80800.00|80800.00|2|80800.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Paula Jineth|Moreno Leon|85|1| |0| |0|CAFETERIA|2|0|1018427.00|0.00|0.00|0.00|21|0|0.00|0|0.00|0|0.00|0|206000.00|7|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|81473.00|0.00|1099900.00|1099900.00|21|1099900.00|21|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|1| |0| |0|CAFETERIA|2|0|296116.00|0.00|0.00|0.00|6|0|0.00|0|0.00|0|0.00|0|5900.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|67500.00|0.00|0.00|0.00|0.00|0.00|23684.00|0.00|319800.00|319800.00|6|319800.00|6|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|1| |0| |0|CAFETERIA|2|0|634816.00|0.00|0.00|63480.00|6|0|0.00|0|0.00|0|0.00|0|109800.00|5|0.00|0|0|0|1139.00|0|1139.00|1|0.00|0|12529.00|0.00|0.00|0.00|0.00|0.00|50784.00|0.00|749080.00|749081.00|6|13440.00|1|0.00|0|0.00|0|1.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|1| |0| |0|CENTRAL PATACONES|5|0|2235651.00|0.00|0.00|161496.00|20|0|0.00|0|-60676.00|9|0.00|0|152700.00|6|0.00|0|0|0|157330.00|0|157330.00|16|0.00|0|1806693.00|0.00|0.00|0.00|0.00|0.00|178849.00|-66011.00|2702683.00|2575994.00|20|2526828.00|20|0.00|0|0.00|0|-2.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|1| |0| |0|DOMICILIOS|3|0|757873.00|0.00|0.00|75786.00|8|0|0.00|0|0.00|0|0.00|0|86300.00|6|0.00|0|0|0|143904.00|0|143904.00|13|0.00|0|2186334.00|0.00|0.00|0.00|0.00|0.00|60627.00|0.00|894286.00|894289.00|8|1698107.00|13|0.00|0|0.00|0|3.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-5463.00|3|-5463.00
+EMPDSC|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-26667.00|1|-26667.00
+EMPDSC|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-3982.00|1|-3982.00
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Glismariams|Barrios Jimenez|80|CxC Rappi|210|CxC Rappi|210|Payment|33100.00|1
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|Efectivo|101|Efectivo|101|Payment|872570.00|19
+EMPTM|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|Efectivo|101|Efectivo|101|Payment|108400.00|6
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|Master Card|202|Master Card|202|Payment|4420935.00|41
+EMPTM|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|Master Card|202|Master Card|202|Payment|52200.00|3
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|Visa |204|Visa |204|Payment|2521807.00|23
+EMPTM|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|Visa |204|Visa |204|Payment|373600.00|5
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|TituloValor |302|TituloValor |302|Payment|32559.00|1
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|American Express|201|American Express|201|Payment|563995.00|4
+EMPTM|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|Sodexo|303|Sodexo|303|Payment|137339.00|1
+EMPTM|Plataformas|21|Plataformas|21|Glismariams|Barrios Jimenez|80|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|18700.00|1
+EMPTM|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Jhon Jairo|Carmen Cuevas|81|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|CxC Rappi|210|CxC Rappi|210|Payment|236705.00|3
+EMPTM|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|Efectivo|101|Efectivo|101|Payment|672600.00|12
+EMPTM|Domicilios|20|Domicilios|20|Jhon Jairo|Carmen Cuevas|81|Efectivo|101|Efectivo|101|Payment|26900.00|1
+EMPTM|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|Efectivo|101|Efectivo|101|Payment|2000.00|1
+EMPTM|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|Master Card|202|Master Card|202|Payment|5524910.00|44
+EMPTM|Domicilios|20|Domicilios|20|Jhon Jairo|Carmen Cuevas|81|Master Card|202|Master Card|202|Payment|82400.00|2
+EMPTM|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|Visa |204|Visa |204|Payment|4368513.00|29
+EMPTM|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|American Express|201|American Express|201|Payment|70909.00|1
+EMPTM|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|193900.00|2
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|CxC Rappi|210|CxC Rappi|210|Payment|406635.00|4
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Efectivo|101|Efectivo|101|Payment|4118900.00|55
+EMPTM|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|Efectivo|101|Efectivo|101|Payment|3865.00|1
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Master Card|202|Master Card|202|Payment|10547908.00|75
+EMPTM|Domicilios|20|Domicilios|20|Guelvis Jose|Chirinos Barbera|84|Master Card|202|Master Card|202|Payment|40500.00|2
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Visa |204|Visa |204|Payment|11751919.00|62
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|TituloValor |302|TituloValor |302|Payment|128642.00|1
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|American Express|201|American Express|201|Payment|571585.00|4
+EMPTM|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|Diners|203|Diners|203|Payment|60202.00|1
+EMPTM|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|Contado |102|Contado |102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|Paula Jineth|Moreno Leon|85|CxC Rappi|210|CxC Rappi|210|Payment|838600.00|15
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Efectivo|101|Efectivo|101|Payment|680020.00|14
+EMPTM|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|Efectivo|101|Efectivo|101|Payment|30300.00|2
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Master Card|202|Master Card|202|Payment|2040530.00|14
+EMPTM|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|Master Card|202|Master Card|202|Payment|15900.00|1
+EMPTM|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|Visa |204|Visa |204|Payment|286150.00|3
+EMPTM|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|Visa |204|Visa |204|Payment|40200.00|1
+EMPTM|Plataformas|21|Plataformas|21|Paula Jineth|Moreno Leon|85|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|261300.00|6
+EMPOTSLS|Domicilios|20|Domicilios|20|Paula Jineth|Moreno Leon|85|Domicilios|7|Domicilios|7|8|0|0|0|370931.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|370931.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Glismariams|Barrios Jimenez|80|Domicilios|7|Domicilios|7|12|0|0|0|285558.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|285558.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Jhon Jairo|Carmen Cuevas|81|Domicilios|7|Domicilios|7|5|0|0|0|400560.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|400560.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Guelvis Jose|Chirinos Barbera|84|Domicilios|7|Domicilios|7|1|0|0|0|17963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|17963.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Jhon Jairo|Carmen Cuevas|81|Domicilios|7|Domicilios|7|2|0|0|0|38890.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|38890.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Glismariams|Barrios Jimenez|80|Domicilios|7|Domicilios|7|2|0|0|0|47963.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|47963.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Glismariams|Barrios Jimenez|80|OT1|1|Order Type Master 1|1|113|0|0|0|14633463.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|14633463.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Jhon Jairo|Carmen Cuevas|81|OT1|1|Order Type Master 1|1|69|0|0|0|10254307.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|10254307.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Guelvis Jose|Chirinos Barbera|84|Domicilios|7|Domicilios|7|4|0|0|0|380094.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|380094.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Guelvis Jose|Chirinos Barbera|84|OT1|1|Order Type Master 1|1|123|0|0|0|13443471.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|13443471.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Paula Jineth|Moreno Leon|85|OT1|1|Order Type Master 1|1|34|0|0|0|3628340.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|3628340.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Paula Jineth|Moreno Leon|85|Domicilios|7|Domicilios|7|21|0|0|0|1018427.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|1018427.00

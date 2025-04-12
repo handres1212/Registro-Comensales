@@ -1,0 +1,13 @@
+EMPID|IBG|Andres Calera|20241220|20241220|20250121|122213|2.00|2.00|Simphony|19.7.2
+EMP|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|10270.00|2|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|34|71|0|0|5387146.00|511575.00|-50825.00|9|0.00|0|-28038.00|0.00|320900.00|14|0.00|0|0.00|0|6329675.00|34|6329675.00|34|0.00|0|0.00|0|0.00|511575.00|0.00|0|5387146.00|0.00|0.00|5387146.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|BARRA COCINA|2|0|455370.00|0.00|0.00|45073.00|4|5|0.00|0|-50825.00|9|0.00|0|25200.00|2|0.00|0|0|0|78479.00|0|78479.00|4|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|36430.00|-3696.00|591394.00|536873.00|4|926079.00|4|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|CAPS|1|0|4931776.00|0.00|0.00|466502.00|30|66|0.00|0|0.00|0|0.00|0|295700.00|12|0.00|0|0|0|433096.00|0|433096.00|23|0.00|0|5907813.00|0.00|0.00|0.00|0.00|0.00|394524.00|-24342.00|5817144.00|5792802.00|30|5403596.00|30|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPTM|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Master Card|202|Master Card|202|Payment|2206793.00|17
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Efectivo|101|Efectivo|101|Payment|24370.00|5
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Visa|204|Visa|204|Payment|3950248.00|14
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Sodexo|303|Sodexo|303|Payment|148264.00|1
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|30|67|0|0|5082796.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|5082796.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Llevar|2|Para Llevar|2|4|4|0|0|304350.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|304350.00

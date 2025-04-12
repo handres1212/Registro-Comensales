@@ -1,0 +1,27 @@
+LOCID|IGA|Inmac.Guadalupe y Amigos en CIA|20250114|123241|2.00|2.00
+LOC|Andres Aeropuerto|DOR|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Phoenix| |20250114|20250113
+LOC|Andres Bazaar 80|AB80|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Phoenix| |20250114|20250113
+LOC|Andres Cajica|CJC|Inmac.Guadalupe y Amigos en CIA|Simphony| |UTC|COP|20250114|20250113
+LOC|Andres Calera|IBG|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Phoenix|Peso Colombiano|20250114|20250113
+LOC|Andres Cartagena|CTG|Inmac.Guadalupe y Amigos en CIA|Simphony| | | |20250114|20250113
+LOC|Andres Expres Casa Andes|Andr12345678|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Expres PepeSierra|Andr1234567|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Hyatt Place|AHP|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Phoenix| |20250114|20250113
+LOC|Andres Medellin|MED|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/New_York| |20250114|20250113
+LOC|Andres Miami|MIA|US|Simphony| |America/New_York| |20250114|20250113
+LOC|Andres Paradero Viajero|AndOrlea|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Plaza Claro|APC|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Phoenix| |20250114|20250113
+LOC|Andres Plaza Gran Estacion|Andr12345|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Plaza Hacienda|Andr12|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Plaza Retiro|Andr123456|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Plaza Santafe|Andr1234|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Pruebas 2021|Andr1|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres RBB ADC|AndresDC|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres RBB Chia|Andr|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres RBB EnCasa|Andr123|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Andres Santa Marta|SMA|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Lima| |20250114|20250113
+LOC|Expres Cafam|Expr|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Expres Calle 93|Expr1|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Expres Chia|Expr123|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Expres Multiparque|Expr1234|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113
+LOC|Expres Palatino|Expr12|Inmac.Guadalupe y Amigos en CIA|Simphony| |America/Bogota| |20250114|20250113

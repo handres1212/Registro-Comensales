@@ -1,0 +1,41 @@
+EMPID|Andr1234|Andres Plaza Santafe|20241220|20241220|20250121|122213|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|32|51|0|0|5524662.00|536430.00|-620075.00|46|0.00|0|-45095.00|-1.00|339800.00|17|0.00|0|0.00|1|6503029.00|33|6465990.00|30|0.00|0|0.00|0|0.00|533291.00|0.00|0|5524662.00|0.00|0.00|5524662.00
+EMP|Domicilios|20|Domicilios|20|Danna Carolina|Bueno|90000002|2|0|0|0|47623.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|52200.00|2|52200.00|2|0.00|0|0.00|0|0.00|0.00|0.00|0|57223.00|-9600.00|-9600.00|47623.00
+EMP|Plataformas|21|Plataformas|21|Danna Carolina|Bueno|90000002|1|0|0|0|34537.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|0|37300.00|1|37300.00|1|0.00|0|0.00|0|0.00|0.00|0.00|0|34537.00|0.00|0.00|34537.00
+EMP|Restaurante|1|Restaurante|1|dispo|dispo|90000005|64|149|0|0|7647339.00|743633.00|-73129.00|13|0.00|0|-26393.00|-28.00|253300.00|14|0.00|0|0.00|0|9002705.00|64|9039744.00|62|0.00|0|0.00|0|0.00|746772.00|0.00|0|7647339.00|0.00|0.00|7647339.00
+EMP|Domicilios|20|Domicilios|20|dispo|dispo|90000005|19|0|0|0|246996.00|0.00|0.00|0|0.00|0|0.00|0.00|10900.00|1|0.00|0|61800.00|3|267100.00|19|267100.00|19|0.00|0|0.00|0|0.00|0.00|0.00|0|251396.00|-4400.00|-4400.00|246996.00
+EMP|Plataformas|21|Plataformas|21|dispo|dispo|90000005|3|0|0|0|289724.00|0.00|0.00|0|0.00|0|0.00|0.00|58400.00|2|0.00|0|0.00|0|312900.00|3|312900.00|3|0.00|0|0.00|0|0.00|0.00|0.00|0|289724.00|0.00|0.00|289724.00
+EMPSHFT|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|1| |0| |0|CAFETERIA|2|0|5524662.00|0.00|0.00|536430.00|32|51|0.00|0|-620075.00|46|0.00|0|339800.00|17|0.00|0|0|0|522180.00|0|522180.00|26|0.00|0|6083173.00|0.00|0.00|0.00|0.00|0.00|441938.00|-45095.00|7168200.00|6503029.00|33|6334879.00|29|0.00|0|0.00|0|-1.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|Danna Carolina|Bueno|90000002|1| |0| |0|CAFETERIA|2|0|47623.00|-9600.00|0.00|0.00|2|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|47623.00|0.00|0.00|0.00|0.00|0.00|4577.00|0.00|61800.00|52200.00|2|52200.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|0.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|11111.00|0|11111.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0.00|0|131111.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|Danna Carolina|Bueno|90000002|1| |0| |0|CAFETERIA|2|0|34537.00|0.00|0.00|0.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|2763.00|0.00|37300.00|37300.00|1|37300.00|1|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|dispo|dispo|90000005|1| |0| |0|CAPS|1|0|0.00|0.00|0.00|-11703.00|0|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|29508.00|0|29508.00|1|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|0.00|-11703.00|0.00|-11703.00|0|474608.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Domicilios|20|Domicilios|20|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|246996.00|-4400.00|0.00|0.00|19|0|0.00|0|0.00|0|0.00|0|10900.00|1|0.00|0|0|0|0.00|0|0.00|0|0.00|0|246996.00|0.00|0.00|0.00|0.00|0.00|20104.00|0.00|271500.00|267100.00|19|267100.00|19|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Plataformas|21|Plataformas|21|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|289724.00|0.00|0.00|0.00|3|0|0.00|0|0.00|0|0.00|0|58400.00|2|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|23176.00|0.00|312900.00|312900.00|3|312900.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|dispo|dispo|90000005|1| |0| |0|CAFETERIA|2|0|7647339.00|0.00|0.00|755336.00|64|149|0.00|0|-73129.00|13|0.00|0|253300.00|14|0.00|0|0|0|717264.00|0|717264.00|54|0.00|0|8441536.00|0.00|0.00|0.00|0.00|0.00|611761.00|-14690.00|9102255.00|9014408.00|64|8565136.00|60|0.00|0|0.00|0|-28.00|0.00|0|0.00
+EMPDSC|Domicilios|20|Domicilios|20|Danna Carolina|Bueno|90000002|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-9600.00|1|-9600.00
+EMPDSC|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-4400.00|3|-4400.00
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Visa|204|Visa|204|Payment|1125532.00|8
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Efectivo|101|Efectivo|101|Payment|413036.00|8
+EMPTM|Domicilios|20|Domicilios|20|Danna Carolina|Bueno|90000002|Efectivo|101|Efectivo|101|Payment|10000.00|1
+EMPTM|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Master Card|202|Master Card|202|Payment|2772818.00|17
+EMPTM|Domicilios|20|Domicilios|20|Danna Carolina|Bueno|90000002|Master Card|202|Master Card|202|Payment|42200.00|1
+EMPTM|Plataformas|21|Plataformas|21|Danna Carolina|Bueno|90000002|CxC Rappi Plaza|212|CxC Rappi Plaza|212|Payment|37300.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|Plataformas|21|Plataformas|21|dispo|dispo|90000005|CxC Rappi|210|CxC Rappi|210|Payment|312900.00|3
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|American Express|201|American Express|201|Payment|40863.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Visa|204|Visa|204|Payment|2334234.00|17
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Visa|204|Visa|204|Payment|26800.00|1
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Efectivo|101|Efectivo|101|Payment|1948892.00|33
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Efectivo|101|Efectivo|101|Payment|64600.00|12
+EMPTM|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Master Card|202|Master Card|202|Payment|6870359.00|30
+EMPTM|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Master Card|202|Master Card|202|Payment|175700.00|6
+EMPOTSLS|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Para Llevar|2|Para Llevar|2|3|0|0|0|122593.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|122593.00
+EMPOTSLS|Domicilios|20|Domicilios|20|Danna Carolina|Bueno|90000002|Para Aqui|1|Para Aqui|1|2|0|0|0|47623.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|47623.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Danna Carolina|Bueno|90000002|Para Aqui|1|Para Aqui|1|32|51|0|0|5524662.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|5524662.00
+EMPOTSLS|Restaurante|1|Restaurante|1|dispo|dispo|90000005|Para Aqui|1|Para Aqui|1|64|149|0|0|7647339.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|7647339.00
+EMPOTSLS|Plataformas|21|Plataformas|21|dispo|dispo|90000005|Domicilios|7|Domicilios|7|3|0|0|0|289724.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|289724.00
+EMPOTSLS|Domicilios|20|Domicilios|20|dispo|dispo|90000005|Para Aqui|1|Para Aqui|1|16|0|0|0|124403.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|124403.00
+EMPOTSLS|Plataformas|21|Plataformas|21|Danna Carolina|Bueno|90000002|Domicilios|7|Domicilios|7|1|0|0|0|34537.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|34537.00

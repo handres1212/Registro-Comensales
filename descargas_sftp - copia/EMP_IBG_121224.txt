@@ -1,0 +1,12 @@
+EMPID|IBG|Andres Calera|20241212|20241212|20250113|125402|2.00|2.00|Simphony|19.7.2
+EMP|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|25|38|0|0|2427133.00|241316.00|-235990.00|12|0.00|0|-17163.00|-11.00|179600.00|5|0.00|0|0.00|0|2862605.00|25|2862605.00|24|0.00|0|0.00|0|0.00|241316.00|0.00|0|2427133.00|0.00|0.00|2427133.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|BARRA COCINA|2|0|327595.00|0.00|0.00|32757.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|6814.00|0|6814.00|2|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|26205.00|0.00|386557.00|386557.00|1|80414.00|2|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|CAPS|1|0|2099538.00|0.00|0.00|208559.00|24|38|0.00|0|-235990.00|12|0.00|0|179600.00|5|0.00|0|0|0|234502.00|0|234502.00|20|0.00|0|2668438.00|0.00|0.00|0.00|0.00|0.00|167962.00|-17163.00|2729212.00|2476048.00|24|2782191.00|22|0.00|0|0.00|0|-11.00|0.00|0|0.00
+EMPTM|1-Restaurante|1|1-Restaurante|22|Maria Paula|Casas|101160004|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Jari|Ávila C.|202210010|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Master Card|202|Master Card|202|Payment|1882892.00|12
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Efectivo|101|Efectivo|101|Payment|417660.00|9
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Visa|204|Visa|204|Payment|562053.00|6
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|25|38|0|0|2353429.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|2353429.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Llevar|2|Para Llevar|2|0|0|0|0|73704.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|73704.00

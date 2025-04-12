@@ -1,0 +1,20 @@
+EMPID|AB80|Andres Bazaar 80|20241218|20241218|20250119|122221|2.00|2.00|Simphony|19.7.2
+EMP|1-Restaurante|1|1-Restaurante|22|Miguel|Ramirez|404220003|10|8|0|0|1660927.00|166091.00|-12109.00|2|0.00|0|-2092.00|1.00|26300.00|2|0.00|0|0.00|0|2142592.00|10|2142592.00|10|0.00|0|0.00|0|0.00|166091.00|0.00|0|1660927.00|0.00|0.00|1660927.00
+EMP|3-Eventos|3|3-Eventos|23|Miguel|Ramirez|404220003|0|0|0|0|0.00|0.00|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0|0.00|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0|0.00|0.00|0.00|0.00
+EMP|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|2|3|0|0|59665.00|672.00|0.00|0|0.00|0|-10588.00|-2.00|0.00|0|0.00|0|0.00|0|71670.00|2|71670.00|2|0.00|0|0.00|0|0.00|672.00|0.00|0|59665.00|0.00|0.00|59665.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|1| |0| |0|CAPS|1|0|6723.00|0.00|0.00|-4622.00|1|1|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|672.00|0|672.00|3|0.00|0|60335.00|0.00|0.00|0.00|0.00|0.00|1277.00|-10588.00|13966.00|3376.00|1|71670.00|2|0.00|0|0.00|0|-2.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|1| |0| |0|PRINCIPAL|4|0|52942.00|0.00|0.00|5294.00|1|2|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|10058.00|0.00|68294.00|68294.00|1|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Miguel|Ramirez|404220003|1| |0| |0|BARRA|3|0|266220.00|0.00|0.00|26621.00|2|2|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|50580.00|0.00|343421.00|343421.00|2|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Miguel|Ramirez|404220003|1| |0| |0|PRINCIPAL|4|0|1405715.00|0.00|0.00|140571.00|8|7|0.00|0|0.00|0|0.00|0|26300.00|2|0.00|0|0|0|31017.00|0|31017.00|3|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|267085.00|0.00|1813371.00|1813371.00|8|400117.00|3|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Miguel|Ramirez|404220003|1| |0| |0|CAPS|1|0|-11008.00|0.00|0.00|-1101.00|0|-1|0.00|0|-12109.00|2|0.00|0|0.00|0|0.00|0|0|0|135074.00|0|135074.00|6|0.00|0|1827019.00|0.00|0.00|0.00|0.00|0.00|-2092.00|-2092.00|0.00|-14200.00|0|1742475.00|7|0.00|0|0.00|0|1.00|0.00|0|0.00
+EMPTM|1-Restaurante|1|1-Restaurante|22|Miguel|Ramirez|404220003|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|Master Card|202|Master Card|202|Payment|1186600.00|5
+EMPTM|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|Efectivo |101|Efectivo |101|Payment|8670.00|1
+EMPTM|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|Visa |204|Visa |204|Payment|191874.00|1
+EMPTM|1-Restaurante|1|1-Restaurante|22|Laura Sofia|Jurado Castellanos|160|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Laura Sofia|Jurado Castellanos|160|Master Card|202|Master Card|202|Payment|492207.00|2
+EMPTM|1-Restaurante|1|1-Restaurante|22|Laura Sofia|Jurado Castellanos|160|Efectivo |101|Efectivo |101|Payment|110950.00|2
+EMPTM|1-Restaurante|1|1-Restaurante|22|Laura Sofia|Jurado Castellanos|160|Visa |204|Visa |204|Payment|223961.00|1
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Miguel|Ramirez|404220003|Para Aqui|1|Para Aqui|1|10|8|0|0|1660927.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|1660927.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Jonatan Steven|Fernandez Medina|76|Para Aqui|1|Para Aqui|1|2|3|0|0|59665.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|59665.00

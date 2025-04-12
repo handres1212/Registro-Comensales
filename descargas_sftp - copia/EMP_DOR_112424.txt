@@ -1,0 +1,12 @@
+EMPID|DOR|Andres Aeropuerto|20241124|20241124|20241226|122251|2.00|2.00|Simphony|19.7.2
+EMP|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|226|412|0|0|20931574.00|2036000.00|-234802.00|20|0.00|0|-63231.00|0.00|823400.00|34|0.00|0|72200.00|14|24642200.00|230|24642200.00|220|0.00|0|0.00|0|0.00|2036000.00|0.00|0|20931574.00|0.00|0.00|20931574.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|1| |0| |0|Almacen|1|0|19499916.00|0.00|0.00|1892600.00|214|390|0.00|0|-207950.00|19|0.00|0|759700.00|32|0.00|0|0|0|1889200.00|0|1889200.00|181|0.00|0|22030391.00|0.00|0.00|0.00|0.00|0.00|1560084.00|-63231.00|23223781.00|22952600.00|215|22909300.00|203|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|1| |0| |0|Bar|3|0|1431658.00|0.00|0.00|143400.00|12|22|0.00|0|-26852.00|1|0.00|0|63700.00|2|0.00|0|0|0|146800.00|0|146800.00|16|0.00|0|1047883.00|0.00|0.00|0.00|0.00|0.00|114542.00|0.00|1716452.00|1689600.00|15|1732900.00|17|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Efectivo |101|Efectivo |101|Payment|3440800.00|64
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|American Express|201|American Express|201|Payment|789000.00|4
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Master Card|202|Master Card|202|Payment|12616550.00|113
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Visa|204|Visa|204|Payment|7714650.00|73
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Sodexo|303|Sodexo|303|Payment|81200.00|1
+EMPTM|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Contado|207|Contado|207|Payment|0.00|0
+EMPOTSLS|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Para Aqui|1|Para Aqui/DOR|0|211|395|0|0|20723516.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|20723516.00
+EMPOTSLS|Restaurante|1|Restaurante|1|Marcela|Cruz Hernandez|2008|Para Llevar|2|Para Llevar/DOR|0|15|17|0|0|208058.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|208058.00

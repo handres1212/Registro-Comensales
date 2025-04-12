@@ -1,0 +1,12 @@
+EMPID|IBG|Andres Calera|20241128|20241128|20241230|211405|2.00|2.00|Simphony|19.7.2
+EMP|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|25|51|0|0|2927307.00|272679.00|-24444.00|2|0.00|0|-19648.00|0.00|86300.00|5|0.00|0|32778.00|2|3434279.00|25|3434279.00|25|0.00|0|0.00|0|0.00|272679.00|0.00|0|2928707.00|-1400.00|-1400.00|2927307.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|BARRA COCINA|2|0|15648.00|0.00|0.00|1564.00|1|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0|0|0.00|0|0.00|0|0.00|0|0.00|0.00|0.00|0.00|0.00|0.00|1252.00|0.00|18464.00|18464.00|1|0.00|0|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPSHFT|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|1| |0| |0|CAPS|1|0|2911659.00|-1400.00|0.00|271115.00|24|51|0.00|0|-24444.00|2|0.00|0|86300.00|5|0.00|0|0|0|272679.00|0|272679.00|18|0.00|0|3231874.00|0.00|0.00|0.00|0.00|0.00|233041.00|-19648.00|3461307.00|3415815.00|24|3434279.00|25|0.00|0|0.00|0|0.00|0.00|0|0.00
+EMPDSC|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Desc. Empleado 20%|8|Desc. Empleado 20%|8|-1400.00|1|-1400.00
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|American Express|201|American Express|201|Payment|294350.00|2
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Master Card|202|Master Card|202|Payment|1046002.00|14
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Efectivo|101|Efectivo|101|Payment|15000.00|3
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Contado|102|Contado|102|Payment|0.00|0
+EMPTM|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Visa|204|Visa|204|Payment|2078927.00|11
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Aqui|1|Para Aqui|1|23|48|0|0|2791567.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|2791567.00
+EMPOTSLS|1-Restaurante|1|1-Restaurante|22|Yan Carlos|Lozano|48|Para Llevar|2|Para Llevar|2|2|3|0|0|135740.00|0.00|0.00|0|0.00|0|0.00|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0|0.00|0.00|135740.00
